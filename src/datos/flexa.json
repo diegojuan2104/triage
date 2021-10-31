@@ -1,0 +1,65 @@
+[
+  {
+    "Desde": "-",
+    "Hasta": "1.000.000",
+    "Rango": 1,
+    "Light Hazard": "Basic",
+    "Moderate Hazard": "Basic"
+  },
+  {
+    "Desde": "1.000.001",
+    "Hasta": "2.500.000",
+    "Rango": 2,
+    "Light Hazard": "Basic",
+    "Moderate Hazard": "Basic"
+  },
+  {
+    "Desde": "2.500.001",
+    "Hasta": "5.000.000",
+    "Rango": 3,
+    "Light Hazard": "Basic",
+    "Moderate Hazard": "Int UW"
+  },
+  {
+    "Desde": "5.000.001",
+    "Hasta": "10.000.000",
+    "Rango": 4,
+    "Light Hazard": "Int UW",
+    "Moderate Hazard": "Int UW"
+  },
+  {
+    "Desde": "10.000.001",
+    "Hasta": "20.000.000",
+    "Rango": 5,
+    "Light Hazard": "Int UW",
+    "Moderate Hazard": "Int RE"
+  },
+  {
+    "Desde": "20.000.001",
+    "Hasta": "30.000.000",
+    "Rango": 6,
+    "Light Hazard": "Int UW",
+    "Moderate Hazard": "Int RE"
+  },
+  {
+    "Desde": "30.000.001",
+    "Hasta": "40.000.000",
+    "Rango": 7,
+    "Light Hazard": "Int RE",
+    "Moderate Hazard": "RE Desktop"
+  },
+  {
+    "Desde": "40.000.001",
+    "Hasta": "50.000.000",
+    "Rango": 8,
+    "Light Hazard": "Int RE",
+    "Moderate Hazard": "RE Desktop"
+  },
+  {
+    "Desde": "50.000.001",
+    "Hasta": "100.000.000",
+    "Rango": 9,
+    "Light Hazard": "RE Desktop",
+    "Moderate Hazard": "RE Desktop"
+  }
+]
