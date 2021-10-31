@@ -1,0 +1,6854 @@
+[
+  {
+    "state_code": 5,
+    "city_code": "5,001",
+    "city": "Medellín",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,002",
+    "city": "Abejorral",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,004",
+    "city": "Abriaquí",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,021",
+    "city": "Alejandría",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,030",
+    "city": "Amagá",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,031",
+    "city": "Amalfi",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,034",
+    "city": "Andes",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,036",
+    "city": "Angelópolis",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,038",
+    "city": "Angostura",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,040",
+    "city": "Anorí",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,832",
+    "city": "Tununguá",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,044",
+    "city": "Anza",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,045",
+    "city": "Apartadó",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,051",
+    "city": "Arboletes",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,055",
+    "city": "Argelia",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,059",
+    "city": "Armenia",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,079",
+    "city": "Barbosa",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,088",
+    "city": "Bello",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,091",
+    "city": "Betania",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,093",
+    "city": "Betulia",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,101",
+    "city": "Ciudad Bolívar",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,107",
+    "city": "Briceño",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,113",
+    "city": "Buriticá",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,120",
+    "city": "Cáceres",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,125",
+    "city": "Caicedo",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,129",
+    "city": "Caldas",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,134",
+    "city": "Campamento",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,138",
+    "city": "Cañasgordas",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,142",
+    "city": "Caracolí",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,145",
+    "city": "Caramanta",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,147",
+    "city": "Carepa",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,476",
+    "city": "Motavita",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,150",
+    "city": "Carolina",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,154",
+    "city": "Caucasia",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,172",
+    "city": "Chigorodó",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,190",
+    "city": "Cisneros",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,197",
+    "city": "Cocorná",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,206",
+    "city": "Concepción",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,209",
+    "city": "Concordia",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,212",
+    "city": "Copacabana",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,234",
+    "city": "Dabeiba",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,237",
+    "city": "Don Matías",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,240",
+    "city": "Ebéjico",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,250",
+    "city": "El Bagre",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,264",
+    "city": "Entrerrios",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,266",
+    "city": "Envigado",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,282",
+    "city": "Fredonia",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,675",
+    "city": "San Bernardo del Viento",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,306",
+    "city": "Giraldo",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,308",
+    "city": "Girardota",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,310",
+    "city": "Gómez Plata",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,361",
+    "city": "Istmina",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,315",
+    "city": "Guadalupe",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,318",
+    "city": "Guarne",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,321",
+    "city": "Guatapé",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,347",
+    "city": "Heliconia",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,353",
+    "city": "Hispania",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,360",
+    "city": "Itagui",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,361",
+    "city": "Ituango",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,086",
+    "city": "Belmira",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,368",
+    "city": "Jericó",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,376",
+    "city": "La Ceja",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,380",
+    "city": "La Estrella",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,390",
+    "city": "La Pintada",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,400",
+    "city": "La Unión",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,411",
+    "city": "Liborina",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,425",
+    "city": "Maceo",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,440",
+    "city": "Marinilla",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,467",
+    "city": "Montebello",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,475",
+    "city": "Murindó",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,480",
+    "city": "Mutatá",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,483",
+    "city": "Nariño",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,490",
+    "city": "Necoclí",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,495",
+    "city": "Nechí",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,501",
+    "city": "Olaya",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,541",
+    "city": "Peñol",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,543",
+    "city": "Peque",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,576",
+    "city": "Pueblorrico",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,579",
+    "city": "Puerto Berrío",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,585",
+    "city": "Puerto Nare",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,591",
+    "city": "Puerto Triunfo",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,604",
+    "city": "Remedios",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,607",
+    "city": "Retiro",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,615",
+    "city": "Rionegro",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,628",
+    "city": "Sabanalarga",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,631",
+    "city": "Sabaneta",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,642",
+    "city": "Salgar",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,189",
+    "city": "Ciénega",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,699",
+    "city": "Santacruz",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,652",
+    "city": "San Francisco",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,656",
+    "city": "San Jerónimo",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,575",
+    "city": "Puerto Wilches",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,573",
+    "city": "Puerto Parra",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,660",
+    "city": "San Luis",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,664",
+    "city": "San Pedro",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,667",
+    "city": "San Rafael",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,670",
+    "city": "San Roque",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,674",
+    "city": "San Vicente",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,679",
+    "city": "Santa Bárbara",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,690",
+    "city": "Santo Domingo",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,697",
+    "city": "El Santuario",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,736",
+    "city": "Segovia",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,761",
+    "city": "Sopetrán",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,789",
+    "city": "Támesis",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,790",
+    "city": "Tarazá",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,792",
+    "city": "Tarso",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,809",
+    "city": "Titiribí",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,819",
+    "city": "Toledo",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,837",
+    "city": "Turbo",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,842",
+    "city": "Uramita",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,847",
+    "city": "Urrao",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,854",
+    "city": "Valdivia",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,856",
+    "city": "Valparaíso",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,858",
+    "city": "Vegachí",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,861",
+    "city": "Venecia",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,885",
+    "city": "Yalí",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,887",
+    "city": "Yarumal",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,890",
+    "city": "Yolombó",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,893",
+    "city": "Yondó",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,895",
+    "city": "Zaragoza",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,001",
+    "city": "Barranquilla",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,078",
+    "city": "Baranoa",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,141",
+    "city": "Candelaria",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,296",
+    "city": "Galapa",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,421",
+    "city": "Luruaco",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,433",
+    "city": "Malambo",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,436",
+    "city": "Manatí",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,549",
+    "city": "Piojó",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,558",
+    "city": "Polonuevo",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,634",
+    "city": "Sabanagrande",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,638",
+    "city": "Sabanalarga",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,675",
+    "city": "Santa Lucía",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,685",
+    "city": "Santo Tomás",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,758",
+    "city": "Soledad",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,770",
+    "city": "Suan",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,832",
+    "city": "Tubará",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,849",
+    "city": "Usiacurí",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,006",
+    "city": "Achí",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,042",
+    "city": "Arenal",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,052",
+    "city": "Arjona",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,062",
+    "city": "Arroyohondo",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,140",
+    "city": "Calamar",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,160",
+    "city": "Cantagallo",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,188",
+    "city": "Cicuco",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,212",
+    "city": "Córdoba",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,222",
+    "city": "Clemencia",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,248",
+    "city": "El Guamo",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,430",
+    "city": "Magangué",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,433",
+    "city": "Mahates",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,440",
+    "city": "Margarita",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,458",
+    "city": "Montecristo",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,468",
+    "city": "Mompós",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,473",
+    "city": "Morales",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,490",
+    "city": "Norosí",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,549",
+    "city": "Pinillos",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,580",
+    "city": "Regidor",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,600",
+    "city": "Río Viejo",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,647",
+    "city": "San Estanislao",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,650",
+    "city": "San Fernando",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,657",
+    "city": "San Juan Nepomuceno",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,673",
+    "city": "Santa Catalina",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,683",
+    "city": "Santa Rosa",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,744",
+    "city": "Simití",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,760",
+    "city": "Soplaviento",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,780",
+    "city": "Talaigua Nuevo",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,810",
+    "city": "Tiquisio",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,836",
+    "city": "Turbaco",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,838",
+    "city": "Turbaná",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,873",
+    "city": "Villanueva",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,001",
+    "city": "Tunja",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,022",
+    "city": "Almeida",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,047",
+    "city": "Aquitania",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,051",
+    "city": "Arcabuco",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,090",
+    "city": "Berbeo",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,092",
+    "city": "Betéitiva",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,097",
+    "city": "Boavita",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,104",
+    "city": "Boyacá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,106",
+    "city": "Briceño",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,109",
+    "city": "Buena Vista",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,114",
+    "city": "Busbanzá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,131",
+    "city": "Caldas",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,135",
+    "city": "Campohermoso",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,162",
+    "city": "Cerinza",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,172",
+    "city": "Chinavita",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,176",
+    "city": "Chiquinquirá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,180",
+    "city": "Chiscas",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,183",
+    "city": "Chita",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,185",
+    "city": "Chitaraque",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,187",
+    "city": "Chivatá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,204",
+    "city": "Cómbita",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,212",
+    "city": "Coper",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,215",
+    "city": "Corrales",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,218",
+    "city": "Covarachía",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,223",
+    "city": "Cubará",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,224",
+    "city": "Cucaita",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,226",
+    "city": "Cuítiva",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,232",
+    "city": "Chíquiza",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,236",
+    "city": "Chivor",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,238",
+    "city": "Duitama",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,244",
+    "city": "El Cocuy",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,248",
+    "city": "El Espino",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,272",
+    "city": "Firavitoba",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,276",
+    "city": "Floresta",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,293",
+    "city": "Gachantivá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,296",
+    "city": "Gameza",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,299",
+    "city": "Garagoa",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,317",
+    "city": "Guacamayas",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,322",
+    "city": "Guateque",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,325",
+    "city": "Guayatá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,332",
+    "city": "Güicán",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,362",
+    "city": "Iza",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,367",
+    "city": "Jenesano",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,368",
+    "city": "Jericó",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,377",
+    "city": "Labranzagrande",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,380",
+    "city": "La Capilla",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,401",
+    "city": "La Victoria",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,425",
+    "city": "Macanal",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,442",
+    "city": "Maripí",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,455",
+    "city": "Miraflores",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,464",
+    "city": "Mongua",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,466",
+    "city": "Monguí",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,469",
+    "city": "Moniquirá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,480",
+    "city": "Muzo",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,491",
+    "city": "Nobsa",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,494",
+    "city": "Nuevo Colón",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,500",
+    "city": "Oicatá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,507",
+    "city": "Otanche",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,511",
+    "city": "Pachavita",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,514",
+    "city": "Páez",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,516",
+    "city": "Paipa",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,518",
+    "city": "Pajarito",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,522",
+    "city": "Panqueba",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,531",
+    "city": "Pauna",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,533",
+    "city": "Paya",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,542",
+    "city": "Pesca",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,550",
+    "city": "Pisba",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,572",
+    "city": "Puerto Boyacá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,580",
+    "city": "Quípama",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,599",
+    "city": "Ramiriquí",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,600",
+    "city": "Ráquira",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,621",
+    "city": "Rondón",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,632",
+    "city": "Saboyá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,638",
+    "city": "Sáchica",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,646",
+    "city": "Samacá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,660",
+    "city": "San Eduardo",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,673",
+    "city": "San Mateo",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,686",
+    "city": "Santana",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,690",
+    "city": "Santa María",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,696",
+    "city": "Santa Sofía",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,720",
+    "city": "Sativanorte",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,723",
+    "city": "Sativasur",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,740",
+    "city": "Siachoque",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,753",
+    "city": "Soatá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,755",
+    "city": "Socotá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,757",
+    "city": "Socha",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,759",
+    "city": "Sogamoso",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,761",
+    "city": "Somondoco",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,762",
+    "city": "Sora",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,763",
+    "city": "Sotaquirá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,764",
+    "city": "Soracá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,774",
+    "city": "Susacón",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,776",
+    "city": "Sutamarchán",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,778",
+    "city": "Sutatenza",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,790",
+    "city": "Tasco",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,798",
+    "city": "Tenza",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,804",
+    "city": "Tibaná",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,808",
+    "city": "Tinjacá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,810",
+    "city": "Tipacoque",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,814",
+    "city": "Toca",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,820",
+    "city": "Tópaga",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,822",
+    "city": "Tota",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,835",
+    "city": "Turmequé",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,839",
+    "city": "Tutazá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,842",
+    "city": "Umbita",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,861",
+    "city": "Ventaquemada",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,879",
+    "city": "Viracachá",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,897",
+    "city": "Zetaquira",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,001",
+    "city": "Manizales",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,013",
+    "city": "Aguadas",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,042",
+    "city": "Anserma",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,050",
+    "city": "Aranzazu",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,088",
+    "city": "Belalcázar",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,174",
+    "city": "Chinchiná",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,272",
+    "city": "Filadelfia",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,380",
+    "city": "La Dorada",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,388",
+    "city": "La Merced",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,433",
+    "city": "Manzanares",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,442",
+    "city": "Marmato",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,446",
+    "city": "Marulanda",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,486",
+    "city": "Neira",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,495",
+    "city": "Norcasia",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,513",
+    "city": "Pácora",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,524",
+    "city": "Palestina",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,541",
+    "city": "Pensilvania",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,614",
+    "city": "Riosucio",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,616",
+    "city": "Risaralda",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,653",
+    "city": "Salamina",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,662",
+    "city": "Samaná",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,665",
+    "city": "San José",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,777",
+    "city": "Supía",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,867",
+    "city": "Victoria",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,873",
+    "city": "Villamaría",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,877",
+    "city": "Viterbo",
+    "": ""
+  },
+  {
+    "state_code": 18,
+    "city_code": "18,001",
+    "city": "Florencia",
+    "": ""
+  },
+  {
+    "state_code": 18,
+    "city_code": "18,029",
+    "city": "Albania",
+    "": ""
+  },
+  {
+    "state_code": 18,
+    "city_code": "18,205",
+    "city": "Curillo",
+    "": ""
+  },
+  {
+    "state_code": 18,
+    "city_code": "18,247",
+    "city": "El Doncello",
+    "": ""
+  },
+  {
+    "state_code": 18,
+    "city_code": "18,256",
+    "city": "El Paujil",
+    "": ""
+  },
+  {
+    "state_code": 18,
+    "city_code": "18,479",
+    "city": "Morelia",
+    "": ""
+  },
+  {
+    "state_code": 18,
+    "city_code": "18,592",
+    "city": "Puerto Rico",
+    "": ""
+  },
+  {
+    "state_code": 18,
+    "city_code": "18,756",
+    "city": "Solano",
+    "": ""
+  },
+  {
+    "state_code": 18,
+    "city_code": "18,785",
+    "city": "Solita",
+    "": ""
+  },
+  {
+    "state_code": 18,
+    "city_code": "18,860",
+    "city": "Valparaíso",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,001",
+    "city": "Popayán",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,022",
+    "city": "Almaguer",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,050",
+    "city": "Argelia",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,075",
+    "city": "Balboa",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,100",
+    "city": "Bolívar",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,110",
+    "city": "Buenos Aires",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,130",
+    "city": "Cajibío",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,137",
+    "city": "Caldono",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,142",
+    "city": "Caloto",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,212",
+    "city": "Corinto",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,256",
+    "city": "El Tambo",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,290",
+    "city": "Florencia",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,300",
+    "city": "Guachené",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,318",
+    "city": "Guapi",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,355",
+    "city": "Inzá",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,364",
+    "city": "Jambaló",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,392",
+    "city": "La Sierra",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,397",
+    "city": "La Vega",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,418",
+    "city": "López",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,450",
+    "city": "Mercaderes",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,455",
+    "city": "Miranda",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,473",
+    "city": "Morales",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,513",
+    "city": "Padilla",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,532",
+    "city": "Patía",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,533",
+    "city": "Piamonte",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,548",
+    "city": "Piendamó",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,573",
+    "city": "Puerto Tejada",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,585",
+    "city": "Puracé",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,622",
+    "city": "Rosas",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,701",
+    "city": "Santa Rosa",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,743",
+    "city": "Silvia",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,760",
+    "city": "Sotara",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,780",
+    "city": "Suárez",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,785",
+    "city": "Sucre",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,807",
+    "city": "Timbío",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,809",
+    "city": "Timbiquí",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,821",
+    "city": "Toribio",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,824",
+    "city": "Totoró",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,845",
+    "city": "Villa Rica",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,001",
+    "city": "Valledupar",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,011",
+    "city": "Aguachica",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,013",
+    "city": "Agustín Codazzi",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,032",
+    "city": "Astrea",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,045",
+    "city": "Becerril",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,060",
+    "city": "Bosconia",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,175",
+    "city": "Chimichagua",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,178",
+    "city": "Chiriguaná",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,228",
+    "city": "Curumaní",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,238",
+    "city": "El Copey",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,250",
+    "city": "El Paso",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,295",
+    "city": "Gamarra",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,310",
+    "city": "González",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,383",
+    "city": "La Gloria",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,443",
+    "city": "Manaure",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,517",
+    "city": "Pailitas",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,550",
+    "city": "Pelaya",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,570",
+    "city": "Pueblo Bello",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,621",
+    "city": "La Paz",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,710",
+    "city": "San Alberto",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,750",
+    "city": "San Diego",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,770",
+    "city": "San Martín",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,787",
+    "city": "Tamalameque",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,001",
+    "city": "Montería",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,068",
+    "city": "Ayapel",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,079",
+    "city": "Buenavista",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,090",
+    "city": "Canalete",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,162",
+    "city": "Cereté",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,168",
+    "city": "Chimá",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,182",
+    "city": "Chinú",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,300",
+    "city": "Cotorra",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,417",
+    "city": "Lorica",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,419",
+    "city": "Los Córdobas",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,464",
+    "city": "Momil",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,500",
+    "city": "Moñitos",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,555",
+    "city": "Planeta Rica",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,570",
+    "city": "Pueblo Nuevo",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,574",
+    "city": "Puerto Escondido",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,586",
+    "city": "Purísima",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,660",
+    "city": "Sahagún",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,670",
+    "city": "San Andrés Sotavento",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,672",
+    "city": "San Antero",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,686",
+    "city": "San Pelayo",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,807",
+    "city": "Tierralta",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,815",
+    "city": "Tuchín",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,855",
+    "city": "Valencia",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,035",
+    "city": "Anapoima",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,053",
+    "city": "Arbeláez",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,086",
+    "city": "Beltrán",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,095",
+    "city": "Bituima",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,099",
+    "city": "Bojacá",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,120",
+    "city": "Cabrera",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,123",
+    "city": "Cachipay",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,126",
+    "city": "Cajicá",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,148",
+    "city": "Caparrapí",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,151",
+    "city": "Caqueza",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,168",
+    "city": "Chaguaní",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,178",
+    "city": "Chipaque",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,181",
+    "city": "Choachí",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,183",
+    "city": "Chocontá",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,200",
+    "city": "Cogua",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,214",
+    "city": "Cota",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,224",
+    "city": "Cucunubá",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,245",
+    "city": "El Colegio",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,260",
+    "city": "El Rosal",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,279",
+    "city": "Fomeque",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,281",
+    "city": "Fosca",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,286",
+    "city": "Funza",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,288",
+    "city": "Fúquene",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,293",
+    "city": "Gachala",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,295",
+    "city": "Gachancipá",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,297",
+    "city": "Gachetá",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,307",
+    "city": "Girardot",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,312",
+    "city": "Granada",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,317",
+    "city": "Guachetá",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,320",
+    "city": "Guaduas",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,322",
+    "city": "Guasca",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,324",
+    "city": "Guataquí",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,326",
+    "city": "Guatavita",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,335",
+    "city": "Guayabetal",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,339",
+    "city": "Gutiérrez",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,368",
+    "city": "Jerusalén",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,372",
+    "city": "Junín",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,377",
+    "city": "La Calera",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,386",
+    "city": "La Mesa",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,394",
+    "city": "La Palma",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,398",
+    "city": "La Peña",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,402",
+    "city": "La Vega",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,407",
+    "city": "Lenguazaque",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,426",
+    "city": "Macheta",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,430",
+    "city": "Madrid",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,436",
+    "city": "Manta",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,438",
+    "city": "Medina",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,473",
+    "city": "Mosquera",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,483",
+    "city": "Nariño",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,486",
+    "city": "Nemocón",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,488",
+    "city": "Nilo",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,489",
+    "city": "Nimaima",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,491",
+    "city": "Nocaima",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,506",
+    "city": "Venecia",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,513",
+    "city": "Pacho",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,518",
+    "city": "Paime",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,524",
+    "city": "Pandi",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,530",
+    "city": "Paratebueno",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,535",
+    "city": "Pasca",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,572",
+    "city": "Puerto Salgar",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,580",
+    "city": "Pulí",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,592",
+    "city": "Quebradanegra",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,594",
+    "city": "Quetame",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,596",
+    "city": "Quipile",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,599",
+    "city": "Apulo",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,612",
+    "city": "Ricaurte",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,649",
+    "city": "San Bernardo",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,653",
+    "city": "San Cayetano",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,658",
+    "city": "San Francisco",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,736",
+    "city": "Sesquilé",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,740",
+    "city": "Sibaté",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,743",
+    "city": "Silvania",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,745",
+    "city": "Simijaca",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,754",
+    "city": "Soacha",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,769",
+    "city": "Subachoque",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,772",
+    "city": "Suesca",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,777",
+    "city": "Supatá",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,779",
+    "city": "Susa",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,781",
+    "city": "Sutatausa",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,785",
+    "city": "Tabio",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,793",
+    "city": "Tausa",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,797",
+    "city": "Tena",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,799",
+    "city": "Tenjo",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,805",
+    "city": "Tibacuy",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,807",
+    "city": "Tibirita",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,815",
+    "city": "Tocaima",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,817",
+    "city": "Tocancipá",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,823",
+    "city": "Topaipí",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,839",
+    "city": "Ubalá",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,841",
+    "city": "Ubaque",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,845",
+    "city": "Une",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,851",
+    "city": "Útica",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,867",
+    "city": "Vianí",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,871",
+    "city": "Villagómez",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,873",
+    "city": "Villapinzón",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,875",
+    "city": "Villeta",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,878",
+    "city": "Viotá",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,898",
+    "city": "Zipacón",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,001",
+    "city": "Quibdó",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,006",
+    "city": "Acandí",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,025",
+    "city": "Alto Baudo",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,050",
+    "city": "Atrato",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,073",
+    "city": "Bagadó",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,075",
+    "city": "Bahía Solano",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,077",
+    "city": "Bajo Baudó",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,099",
+    "city": "Bojaya",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,160",
+    "city": "Cértegui",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,205",
+    "city": "Condoto",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,372",
+    "city": "Juradó",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,413",
+    "city": "Lloró",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,425",
+    "city": "Medio Atrato",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,430",
+    "city": "Medio Baudó",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,450",
+    "city": "Medio San Juan",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,491",
+    "city": "Nóvita",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,495",
+    "city": "Nuquí",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,580",
+    "city": "Río Iro",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,600",
+    "city": "Río Quito",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,615",
+    "city": "Riosucio",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,745",
+    "city": "Sipí",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,800",
+    "city": "Unguía",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,001",
+    "city": "Neiva",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,006",
+    "city": "Acevedo",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,013",
+    "city": "Agrado",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,016",
+    "city": "Aipe",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,020",
+    "city": "Algeciras",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,026",
+    "city": "Altamira",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,078",
+    "city": "Baraya",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,132",
+    "city": "Campoalegre",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,206",
+    "city": "Colombia",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,244",
+    "city": "Elías",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,298",
+    "city": "Garzón",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,306",
+    "city": "Gigante",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,319",
+    "city": "Guadalupe",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,349",
+    "city": "Hobo",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,357",
+    "city": "Iquira",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,359",
+    "city": "Isnos",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,378",
+    "city": "La Argentina",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,396",
+    "city": "La Plata",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,483",
+    "city": "Nátaga",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,503",
+    "city": "Oporapa",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,518",
+    "city": "Paicol",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,524",
+    "city": "Palermo",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,530",
+    "city": "Palestina",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,548",
+    "city": "Pital",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,551",
+    "city": "Pitalito",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,615",
+    "city": "Rivera",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,660",
+    "city": "Saladoblanco",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,676",
+    "city": "Santa María",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,770",
+    "city": "Suaza",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,791",
+    "city": "Tarqui",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,797",
+    "city": "Tesalia",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,799",
+    "city": "Tello",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,801",
+    "city": "Teruel",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,807",
+    "city": "Timaná",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,872",
+    "city": "Villavieja",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,885",
+    "city": "Yaguará",
+    "": ""
+  },
+  {
+    "state_code": 44,
+    "city_code": "44,001",
+    "city": "Riohacha",
+    "": ""
+  },
+  {
+    "state_code": 44,
+    "city_code": "44,035",
+    "city": "Albania",
+    "": ""
+  },
+  {
+    "state_code": 44,
+    "city_code": "44,078",
+    "city": "Barrancas",
+    "": ""
+  },
+  {
+    "state_code": 44,
+    "city_code": "44,090",
+    "city": "Dibula",
+    "": ""
+  },
+  {
+    "state_code": 44,
+    "city_code": "44,098",
+    "city": "Distracción",
+    "": ""
+  },
+  {
+    "state_code": 44,
+    "city_code": "44,110",
+    "city": "El Molino",
+    "": ""
+  },
+  {
+    "state_code": 44,
+    "city_code": "44,279",
+    "city": "Fonseca",
+    "": ""
+  },
+  {
+    "state_code": 44,
+    "city_code": "44,378",
+    "city": "Hatonuevo",
+    "": ""
+  },
+  {
+    "state_code": 44,
+    "city_code": "44,430",
+    "city": "Maicao",
+    "": ""
+  },
+  {
+    "state_code": 44,
+    "city_code": "44,560",
+    "city": "Manaure",
+    "": ""
+  },
+  {
+    "state_code": 44,
+    "city_code": "44,847",
+    "city": "Uribia",
+    "": ""
+  },
+  {
+    "state_code": 44,
+    "city_code": "44,855",
+    "city": "Urumita",
+    "": ""
+  },
+  {
+    "state_code": 44,
+    "city_code": "44,874",
+    "city": "Villanueva",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,001",
+    "city": "Santa Marta",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,030",
+    "city": "Algarrobo",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,053",
+    "city": "Aracataca",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,058",
+    "city": "Ariguaní",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,161",
+    "city": "Cerro San Antonio",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,170",
+    "city": "Chivolo",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,205",
+    "city": "Concordia",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,245",
+    "city": "El Banco",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,258",
+    "city": "El Piñon",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,268",
+    "city": "El Retén",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,288",
+    "city": "Fundación",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,318",
+    "city": "Guamal",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,460",
+    "city": "Nueva Granada",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,541",
+    "city": "Pedraza",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,551",
+    "city": "Pivijay",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,555",
+    "city": "Plato",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,605",
+    "city": "Remolino",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,675",
+    "city": "Salamina",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,703",
+    "city": "San Zenón",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,707",
+    "city": "Santa Ana",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,745",
+    "city": "Sitionuevo",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,798",
+    "city": "Tenerife",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,960",
+    "city": "Zapayán",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,980",
+    "city": "Zona Bananera",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,001",
+    "city": "Villavicencio",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,006",
+    "city": "Acacias",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,124",
+    "city": "Cabuyaro",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,223",
+    "city": "Cubarral",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,226",
+    "city": "Cumaral",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,245",
+    "city": "El Calvario",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,251",
+    "city": "El Castillo",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,270",
+    "city": "El Dorado",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,313",
+    "city": "Granada",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,318",
+    "city": "Guamal",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,325",
+    "city": "Mapiripán",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,330",
+    "city": "Mesetas",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,350",
+    "city": "La Macarena",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,370",
+    "city": "Uribe",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,400",
+    "city": "Lejanías",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,450",
+    "city": "Puerto Concordia",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,568",
+    "city": "Puerto Gaitán",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,573",
+    "city": "Puerto López",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,577",
+    "city": "Puerto Lleras",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,590",
+    "city": "Puerto Rico",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,606",
+    "city": "Restrepo",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,686",
+    "city": "San Juanito",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,689",
+    "city": "San Martín",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,711",
+    "city": "Vista Hermosa",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,001",
+    "city": "Pasto",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,019",
+    "city": "Albán",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,022",
+    "city": "Aldana",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,036",
+    "city": "Ancuyá",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,079",
+    "city": "Barbacoas",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,203",
+    "city": "Colón",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,207",
+    "city": "Consaca",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,210",
+    "city": "Contadero",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,215",
+    "city": "Córdoba",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,224",
+    "city": "Cuaspud",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,227",
+    "city": "Cumbal",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,233",
+    "city": "Cumbitara",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,250",
+    "city": "El Charco",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,254",
+    "city": "El Peñol",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,256",
+    "city": "El Rosario",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,260",
+    "city": "El Tambo",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,287",
+    "city": "Funes",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,317",
+    "city": "Guachucal",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,320",
+    "city": "Guaitarilla",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,323",
+    "city": "Gualmatán",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,352",
+    "city": "Iles",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,354",
+    "city": "Imués",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,356",
+    "city": "Ipiales",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,378",
+    "city": "La Cruz",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,381",
+    "city": "La Florida",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,385",
+    "city": "La Llanada",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,390",
+    "city": "La Tola",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,399",
+    "city": "La Unión",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,405",
+    "city": "Leiva",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,411",
+    "city": "Linares",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,418",
+    "city": "Los Andes",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,427",
+    "city": "Magüí",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,435",
+    "city": "Mallama",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,473",
+    "city": "Mosquera",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,480",
+    "city": "Nariño",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,490",
+    "city": "Olaya Herrera",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,506",
+    "city": "Ospina",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,520",
+    "city": "Francisco Pizarro",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,540",
+    "city": "Policarpa",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,560",
+    "city": "Potosí",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,565",
+    "city": "Providencia",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,573",
+    "city": "Puerres",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,585",
+    "city": "Pupiales",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,612",
+    "city": "Ricaurte",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,621",
+    "city": "Roberto Payán",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,678",
+    "city": "Samaniego",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,683",
+    "city": "Sandoná",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,685",
+    "city": "San Bernardo",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,687",
+    "city": "San Lorenzo",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,693",
+    "city": "San Pablo",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,696",
+    "city": "Santa Bárbara",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,720",
+    "city": "Sapuyes",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,786",
+    "city": "Taminango",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,788",
+    "city": "Tangua",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,838",
+    "city": "Túquerres",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,885",
+    "city": "Yacuanquer",
+    "": ""
+  },
+  {
+    "state_code": 63,
+    "city_code": "63,001",
+    "city": "Armenia",
+    "": ""
+  },
+  {
+    "state_code": 63,
+    "city_code": "63,111",
+    "city": "Buenavista",
+    "": ""
+  },
+  {
+    "state_code": 63,
+    "city_code": "63,190",
+    "city": "Circasia",
+    "": ""
+  },
+  {
+    "state_code": 63,
+    "city_code": "63,212",
+    "city": "Córdoba",
+    "": ""
+  },
+  {
+    "state_code": 63,
+    "city_code": "63,272",
+    "city": "Filandia",
+    "": ""
+  },
+  {
+    "state_code": 63,
+    "city_code": "63,401",
+    "city": "La Tebaida",
+    "": ""
+  },
+  {
+    "state_code": 63,
+    "city_code": "63,470",
+    "city": "Montenegro",
+    "": ""
+  },
+  {
+    "state_code": 63,
+    "city_code": "63,548",
+    "city": "Pijao",
+    "": ""
+  },
+  {
+    "state_code": 63,
+    "city_code": "63,594",
+    "city": "Quimbaya",
+    "": ""
+  },
+  {
+    "state_code": 63,
+    "city_code": "63,690",
+    "city": "Salento",
+    "": ""
+  },
+  {
+    "state_code": 66,
+    "city_code": "66,001",
+    "city": "Pereira",
+    "": ""
+  },
+  {
+    "state_code": 66,
+    "city_code": "66,045",
+    "city": "Apía",
+    "": ""
+  },
+  {
+    "state_code": 66,
+    "city_code": "66,075",
+    "city": "Balboa",
+    "": ""
+  },
+  {
+    "state_code": 66,
+    "city_code": "66,170",
+    "city": "Dosquebradas",
+    "": ""
+  },
+  {
+    "state_code": 66,
+    "city_code": "66,318",
+    "city": "Guática",
+    "": ""
+  },
+  {
+    "state_code": 66,
+    "city_code": "66,383",
+    "city": "La Celia",
+    "": ""
+  },
+  {
+    "state_code": 66,
+    "city_code": "66,400",
+    "city": "La Virginia",
+    "": ""
+  },
+  {
+    "state_code": 66,
+    "city_code": "66,440",
+    "city": "Marsella",
+    "": ""
+  },
+  {
+    "state_code": 66,
+    "city_code": "66,456",
+    "city": "Mistrató",
+    "": ""
+  },
+  {
+    "state_code": 66,
+    "city_code": "66,572",
+    "city": "Pueblo Rico",
+    "": ""
+  },
+  {
+    "state_code": 66,
+    "city_code": "66,594",
+    "city": "Quinchía",
+    "": ""
+  },
+  {
+    "state_code": 66,
+    "city_code": "66,687",
+    "city": "Santuario",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,001",
+    "city": "Bucaramanga",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,013",
+    "city": "Aguada",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,020",
+    "city": "Albania",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,051",
+    "city": "Aratoca",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,077",
+    "city": "Barbosa",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,079",
+    "city": "Barichara",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,081",
+    "city": "Barrancabermeja",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,092",
+    "city": "Betulia",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,101",
+    "city": "Bolívar",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,121",
+    "city": "Cabrera",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,132",
+    "city": "California",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,152",
+    "city": "Carcasí",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,160",
+    "city": "Cepitá",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,162",
+    "city": "Cerrito",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,167",
+    "city": "Charalá",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,169",
+    "city": "Charta",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,179",
+    "city": "Chipatá",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,190",
+    "city": "Cimitarra",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,207",
+    "city": "Concepción",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,209",
+    "city": "Confines",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,211",
+    "city": "Contratación",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,217",
+    "city": "Coromoro",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,229",
+    "city": "Curití",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,245",
+    "city": "El Guacamayo",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,255",
+    "city": "El Playón",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,264",
+    "city": "Encino",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,266",
+    "city": "Enciso",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,271",
+    "city": "Florián",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,276",
+    "city": "Floridablanca",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,296",
+    "city": "Galán",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,298",
+    "city": "Gambita",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,307",
+    "city": "Girón",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,318",
+    "city": "Guaca",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,320",
+    "city": "Guadalupe",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,322",
+    "city": "Guapotá",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,324",
+    "city": "Guavatá",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,327",
+    "city": "Güepsa",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,368",
+    "city": "Jesús María",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,370",
+    "city": "Jordán",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,377",
+    "city": "La Belleza",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,385",
+    "city": "Landázuri",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,397",
+    "city": "La Paz",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,406",
+    "city": "Lebríja",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,418",
+    "city": "Los Santos",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,425",
+    "city": "Macaravita",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,432",
+    "city": "Málaga",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,444",
+    "city": "Matanza",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,464",
+    "city": "Mogotes",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,468",
+    "city": "Molagavita",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,498",
+    "city": "Ocamonte",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,500",
+    "city": "Oiba",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,502",
+    "city": "Onzaga",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,522",
+    "city": "Palmar",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,533",
+    "city": "Páramo",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,547",
+    "city": "Piedecuesta",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,549",
+    "city": "Pinchote",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,572",
+    "city": "Puente Nacional",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,615",
+    "city": "Rionegro",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,669",
+    "city": "San Andrés",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,679",
+    "city": "San Gil",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,682",
+    "city": "San Joaquín",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,686",
+    "city": "San Miguel",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,705",
+    "city": "Santa Bárbara",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,745",
+    "city": "Simacota",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,755",
+    "city": "Socorro",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,770",
+    "city": "Suaita",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,773",
+    "city": "Sucre",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,780",
+    "city": "Suratá",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,820",
+    "city": "Tona",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,861",
+    "city": "Vélez",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,867",
+    "city": "Vetas",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,872",
+    "city": "Villanueva",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,895",
+    "city": "Zapatoca",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,001",
+    "city": "Sincelejo",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,110",
+    "city": "Buenavista",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,124",
+    "city": "Caimito",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,204",
+    "city": "Coloso",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,221",
+    "city": "Coveñas",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,230",
+    "city": "Chalán",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,233",
+    "city": "El Roble",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,235",
+    "city": "Galeras",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,265",
+    "city": "Guaranda",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,400",
+    "city": "La Unión",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,418",
+    "city": "Los Palmitos",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,429",
+    "city": "Majagual",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,473",
+    "city": "Morroa",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,508",
+    "city": "Ovejas",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,523",
+    "city": "Palmito",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,678",
+    "city": "San Benito Abad",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,708",
+    "city": "San Marcos",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,713",
+    "city": "San Onofre",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,717",
+    "city": "San Pedro",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,771",
+    "city": "Sucre",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,823",
+    "city": "Tolú Viejo",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,024",
+    "city": "Alpujarra",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,026",
+    "city": "Alvarado",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,030",
+    "city": "Ambalema",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,055",
+    "city": "Armero",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,067",
+    "city": "Ataco",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,124",
+    "city": "Cajamarca",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,168",
+    "city": "Chaparral",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,200",
+    "city": "Coello",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,217",
+    "city": "Coyaima",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,226",
+    "city": "Cunday",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,236",
+    "city": "Dolores",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,268",
+    "city": "Espinal",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,270",
+    "city": "Falan",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,275",
+    "city": "Flandes",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,283",
+    "city": "Fresno",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,319",
+    "city": "Guamo",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,347",
+    "city": "Herveo",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,349",
+    "city": "Honda",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,352",
+    "city": "Icononzo",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,443",
+    "city": "Mariquita",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,449",
+    "city": "Melgar",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,461",
+    "city": "Murillo",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,483",
+    "city": "Natagaima",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,504",
+    "city": "Ortega",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,520",
+    "city": "Palocabildo",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,547",
+    "city": "Piedras",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,555",
+    "city": "Planadas",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,563",
+    "city": "Prado",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,585",
+    "city": "Purificación",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,616",
+    "city": "Rio Blanco",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,622",
+    "city": "Roncesvalles",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,624",
+    "city": "Rovira",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,671",
+    "city": "Saldaña",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,686",
+    "city": "Santa Isabel",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,861",
+    "city": "Venadillo",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,870",
+    "city": "Villahermosa",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,873",
+    "city": "Villarrica",
+    "": ""
+  },
+  {
+    "state_code": 81,
+    "city_code": "81,065",
+    "city": "Arauquita",
+    "": ""
+  },
+  {
+    "state_code": 81,
+    "city_code": "81,220",
+    "city": "Cravo Norte",
+    "": ""
+  },
+  {
+    "state_code": 81,
+    "city_code": "81,300",
+    "city": "Fortul",
+    "": ""
+  },
+  {
+    "state_code": 81,
+    "city_code": "81,591",
+    "city": "Puerto Rondón",
+    "": ""
+  },
+  {
+    "state_code": 81,
+    "city_code": "81,736",
+    "city": "Saravena",
+    "": ""
+  },
+  {
+    "state_code": 81,
+    "city_code": "81,794",
+    "city": "Tame",
+    "": ""
+  },
+  {
+    "state_code": 81,
+    "city_code": "81,001",
+    "city": "Arauca",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,001",
+    "city": "Yopal",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,010",
+    "city": "Aguazul",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,015",
+    "city": "Chámeza",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,125",
+    "city": "Hato Corozal",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,136",
+    "city": "La Salina",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,162",
+    "city": "Monterrey",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,263",
+    "city": "Pore",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,279",
+    "city": "Recetor",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,300",
+    "city": "Sabanalarga",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,315",
+    "city": "Sácama",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,410",
+    "city": "Tauramena",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,430",
+    "city": "Trinidad",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,440",
+    "city": "Villanueva",
+    "": ""
+  },
+  {
+    "state_code": 86,
+    "city_code": "86,001",
+    "city": "Mocoa",
+    "": ""
+  },
+  {
+    "state_code": 86,
+    "city_code": "86,219",
+    "city": "Colón",
+    "": ""
+  },
+  {
+    "state_code": 86,
+    "city_code": "86,320",
+    "city": "Orito",
+    "": ""
+  },
+  {
+    "state_code": 86,
+    "city_code": "86,569",
+    "city": "Puerto Caicedo",
+    "": ""
+  },
+  {
+    "state_code": 86,
+    "city_code": "86,571",
+    "city": "Puerto Guzmán",
+    "": ""
+  },
+  {
+    "state_code": 86,
+    "city_code": "86,573",
+    "city": "Leguízamo",
+    "": ""
+  },
+  {
+    "state_code": 86,
+    "city_code": "86,749",
+    "city": "Sibundoy",
+    "": ""
+  },
+  {
+    "state_code": 86,
+    "city_code": "86,755",
+    "city": "San Francisco",
+    "": ""
+  },
+  {
+    "state_code": 86,
+    "city_code": "86,757",
+    "city": "San Miguel",
+    "": ""
+  },
+  {
+    "state_code": 86,
+    "city_code": "86,760",
+    "city": "Santiago",
+    "": ""
+  },
+  {
+    "state_code": 91,
+    "city_code": "91,001",
+    "city": "Leticia",
+    "": ""
+  },
+  {
+    "state_code": 91,
+    "city_code": "91,263",
+    "city": "El Encanto",
+    "": ""
+  },
+  {
+    "state_code": 91,
+    "city_code": "91,405",
+    "city": "La Chorrera",
+    "": ""
+  },
+  {
+    "state_code": 91,
+    "city_code": "91,407",
+    "city": "La Pedrera",
+    "": ""
+  },
+  {
+    "state_code": 91,
+    "city_code": "91,430",
+    "city": "La Victoria",
+    "": ""
+  },
+  {
+    "state_code": 91,
+    "city_code": "91,536",
+    "city": "Puerto Arica",
+    "": ""
+  },
+  {
+    "state_code": 91,
+    "city_code": "91,540",
+    "city": "Puerto Nariño",
+    "": ""
+  },
+  {
+    "state_code": 91,
+    "city_code": "91,669",
+    "city": "Puerto Santander",
+    "": ""
+  },
+  {
+    "state_code": 91,
+    "city_code": "91,798",
+    "city": "Tarapacá",
+    "": ""
+  },
+  {
+    "state_code": 94,
+    "city_code": "94,001",
+    "city": "Inírida",
+    "": ""
+  },
+  {
+    "state_code": 94,
+    "city_code": "94,343",
+    "city": "Barranco Minas",
+    "": ""
+  },
+  {
+    "state_code": 94,
+    "city_code": "94,663",
+    "city": "Mapiripana",
+    "": ""
+  },
+  {
+    "state_code": 94,
+    "city_code": "94,883",
+    "city": "San Felipe",
+    "": ""
+  },
+  {
+    "state_code": 94,
+    "city_code": "94,884",
+    "city": "Puerto Colombia",
+    "": ""
+  },
+  {
+    "state_code": 94,
+    "city_code": "94,885",
+    "city": "La Guadalupe",
+    "": ""
+  },
+  {
+    "state_code": 94,
+    "city_code": "94,886",
+    "city": "Cacahual",
+    "": ""
+  },
+  {
+    "state_code": 94,
+    "city_code": "94,887",
+    "city": "Pana Pana",
+    "": ""
+  },
+  {
+    "state_code": 94,
+    "city_code": "94,888",
+    "city": "Morichal",
+    "": ""
+  },
+  {
+    "state_code": 97,
+    "city_code": "97,001",
+    "city": "Mitú",
+    "": ""
+  },
+  {
+    "state_code": 97,
+    "city_code": "97,161",
+    "city": "Caruru",
+    "": ""
+  },
+  {
+    "state_code": 97,
+    "city_code": "97,511",
+    "city": "Pacoa",
+    "": ""
+  },
+  {
+    "state_code": 97,
+    "city_code": "97,666",
+    "city": "Taraira",
+    "": ""
+  },
+  {
+    "state_code": 97,
+    "city_code": "97,777",
+    "city": "Papunaua",
+    "": ""
+  },
+  {
+    "state_code": 99,
+    "city_code": "99,001",
+    "city": "Puerto Carreño",
+    "": ""
+  },
+  {
+    "state_code": 99,
+    "city_code": "99,524",
+    "city": "La Primavera",
+    "": ""
+  },
+  {
+    "state_code": 99,
+    "city_code": "99,624",
+    "city": "Santa Rosalía",
+    "": ""
+  },
+  {
+    "state_code": 99,
+    "city_code": "99,773",
+    "city": "Cumaribo",
+    "": ""
+  },
+  {
+    "state_code": 18,
+    "city_code": "18,610",
+    "city": "San José del Fragua",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,110",
+    "city": "Barranca de Upía",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,524",
+    "city": "Palmas del Socorro",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,662",
+    "city": "San Juan de Río Seco",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,372",
+    "city": "Juan de Acosta",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,287",
+    "city": "Fuente de Oro",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,325",
+    "city": "San Luis de Gaceno",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,250",
+    "city": "El Litoral del San Juan",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,843",
+    "city": "Villa de San Diego de Ubate",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,074",
+    "city": "Barranco de Loba",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,816",
+    "city": "Togüí",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,688",
+    "city": "Santa Rosa del Sur",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,135",
+    "city": "El Cantón del San Pablo",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,407",
+    "city": "Villa de Leyva",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,692",
+    "city": "San Sebastián de Buenavista",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,537",
+    "city": "Paz de Río",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,300",
+    "city": "Hatillo de Loba",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,660",
+    "city": "Sabanas de San Angel",
+    "": ""
+  },
+  {
+    "state_code": 95,
+    "city_code": "95,015",
+    "city": "Calamar",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,614",
+    "city": "Río de Oro",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,665",
+    "city": "San Pedro de Uraba",
+    "": ""
+  },
+  {
+    "state_code": 95,
+    "city_code": "95,001",
+    "city": "San José del Guaviare",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,693",
+    "city": "Santa Rosa de Viterbo",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,698",
+    "city": "Santander de Quilichao",
+    "": ""
+  },
+  {
+    "state_code": 95,
+    "city_code": "95,200",
+    "city": "Miraflores",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,042",
+    "city": "Santafé de Antioquia",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,680",
+    "city": "San Carlos de Guaroa",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,520",
+    "city": "Palmar de Varela",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,686",
+    "city": "Santa Rosa de Osos",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,647",
+    "city": "San Andrés de Cuerquía",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,854",
+    "city": "Valle de San Juan",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,689",
+    "city": "San Vicente de Chucurí",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,684",
+    "city": "San José de Miranda",
+    "": ""
+  },
+  {
+    "state_code": 88,
+    "city_code": "88,564",
+    "city": "Providencia",
+    "": ""
+  },
+  {
+    "state_code": 66,
+    "city_code": "66,682",
+    "city": "Santa Rosa de Cabal",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,328",
+    "city": "Guayabal de Siquima",
+    "": ""
+  },
+  {
+    "state_code": 18,
+    "city_code": "18,094",
+    "city": "Belén de Los Andaquies",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,250",
+    "city": "Paz de Ariporo",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,720",
+    "city": "Santa Helena del Opón",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,681",
+    "city": "San Pablo de Borbur",
+    "": ""
+  },
+  {
+    "state_code": 44,
+    "city_code": "44,420",
+    "city": "La Jagua del Pilar",
+    "": ""
+  },
+  {
+    "state_code": 20,
+    "city_code": "20,400",
+    "city": "La Jagua de Ibirico",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,742",
+    "city": "San Luis de Sincé",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,667",
+    "city": "San Luis de Gaceno",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,244",
+    "city": "El Carmen de Bolívar",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,245",
+    "city": "El Carmen de Atrato",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,702",
+    "city": "San Juan de Betulia",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,545",
+    "city": "Pijiño del Carmen",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,873",
+    "city": "Vigía del Fuerte",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,667",
+    "city": "San Martín de Loba",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,030",
+    "city": "Altos del Rosario",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,148",
+    "city": "Carmen de Apicala",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,645",
+    "city": "San Antonio del Tequendama",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,655",
+    "city": "Sabana de Torres",
+    "": ""
+  },
+  {
+    "state_code": 95,
+    "city_code": "95,025",
+    "city": "El Retorno",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,682",
+    "city": "San José de Uré",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,694",
+    "city": "San Pedro de Cartago",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,137",
+    "city": "Campo de La Cruz",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,683",
+    "city": "San Juan de Arama",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,658",
+    "city": "San José de La Montaña",
+    "": ""
+  },
+  {
+    "state_code": 18,
+    "city_code": "18,150",
+    "city": "Cartagena del Chairá",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,660",
+    "city": "San José del Palmar",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,001",
+    "city": "Agua de Dios",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,655",
+    "city": "San Jacinto del Cauca",
+    "": ""
+  },
+  {
+    "state_code": 41,
+    "city_code": "41,668",
+    "city": "San Agustín",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,258",
+    "city": "El Tablón de Gómez",
+    "": ""
+  },
+  {
+    "state_code": 88,
+    "city_code": "88,001",
+    "city": "San Andrés",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,664",
+    "city": "San José de Pare",
+    "": ""
+  },
+  {
+    "state_code": 86,
+    "city_code": "86,865",
+    "city": "Valle de Guamez",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,670",
+    "city": "San Pablo de Borbur",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,820",
+    "city": "Santiago de Tolú",
+    "": ""
+  },
+  {
+    "state_code": 11,
+    "city_code": "11,001",
+    "city": "Bogotá D.C.",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,154",
+    "city": "Carmen de Carupa",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,189",
+    "city": "Ciénaga de Oro",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,659",
+    "city": "San Juan de Urabá",
+    "": ""
+  },
+  {
+    "state_code": 44,
+    "city_code": "44,650",
+    "city": "San Juan del Cesar",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,235",
+    "city": "El Carmen de Chucurí",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,148",
+    "city": "El Carmen de Viboral",
+    "": ""
+  },
+  {
+    "state_code": 66,
+    "city_code": "66,088",
+    "city": "Belén de Umbría",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,086",
+    "city": "Belén de Bajira",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,855",
+    "city": "Valle de San José",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,678",
+    "city": "San Luis",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,676",
+    "city": "San Miguel de Sema",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,675",
+    "city": "San Antonio",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,673",
+    "city": "San Benito",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,862",
+    "city": "Vergara",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,678",
+    "city": "San Carlos",
+    "": ""
+  },
+  {
+    "state_code": 91,
+    "city_code": "91,530",
+    "city": "Puerto Alegría",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,344",
+    "city": "Hato",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,654",
+    "city": "San Jacinto",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,693",
+    "city": "San Sebastián",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,649",
+    "city": "San Carlos",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,837",
+    "city": "Tuta",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,743",
+    "city": "Silos",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,125",
+    "city": "Cácota",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,250",
+    "city": "El Dovio",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,820",
+    "city": "Toledo",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,622",
+    "city": "Roldanillo",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,480",
+    "city": "Mutiscua",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,054",
+    "city": "Argelia",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,261",
+    "city": "El Zulia",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,660",
+    "city": "Salazar",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,736",
+    "city": "Sevilla",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,895",
+    "city": "Zarzal",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,223",
+    "city": "Cucutilla",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,248",
+    "city": "El Cerrito",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,147",
+    "city": "Cartago",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,122",
+    "city": "Caicedonia",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,553",
+    "city": "Puerto Santander",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,313",
+    "city": "Gramalote",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,246",
+    "city": "El Cairo",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,250",
+    "city": "El Tarra",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,400",
+    "city": "La Unión",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,606",
+    "city": "Restrepo",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,800",
+    "city": "Teorama",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,233",
+    "city": "Dagua",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,051",
+    "city": "Arboledas",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,318",
+    "city": "Guacarí",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,418",
+    "city": "Lourdes",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,041",
+    "city": "Ansermanuevo",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,099",
+    "city": "Bochalema",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,113",
+    "city": "Bugalagrande",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,206",
+    "city": "Convención",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,344",
+    "city": "Hacarí",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,403",
+    "city": "La Victoria",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,347",
+    "city": "Herrán",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,306",
+    "city": "Ginebra",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,892",
+    "city": "Yumbo",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,497",
+    "city": "Obando",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,810",
+    "city": "Tibú",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,673",
+    "city": "San Cayetano",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,670",
+    "city": "San Calixto",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,100",
+    "city": "Bolívar",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,398",
+    "city": "La Playa",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,001",
+    "city": "Cali",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,670",
+    "city": "San Pedro",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,111",
+    "city": "Guadalajara de Buga",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,172",
+    "city": "Chinácota",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,599",
+    "city": "Ragonvalia",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,385",
+    "city": "La Esperanza",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,874",
+    "city": "Villa del Rosario",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,174",
+    "city": "Chitagá",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,126",
+    "city": "Calima",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,720",
+    "city": "Sardinata",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,036",
+    "city": "Andalucía",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,563",
+    "city": "Pradera",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,003",
+    "city": "Abrego",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,405",
+    "city": "Los Patios",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,498",
+    "city": "Ocaña",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,109",
+    "city": "Bucarasica",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,890",
+    "city": "Yotoco",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,520",
+    "city": "Palmira",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,616",
+    "city": "Riofrío",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,680",
+    "city": "Santiago",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,020",
+    "city": "Alcalá",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,863",
+    "city": "Versalles",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,377",
+    "city": "Labateca",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,128",
+    "city": "Cachirá",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,871",
+    "city": "Villa Caro",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,239",
+    "city": "Durania",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,243",
+    "city": "El Águila",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,823",
+    "city": "Toro",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,130",
+    "city": "Candelaria",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,377",
+    "city": "La Cumbre",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,845",
+    "city": "Ulloa",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,828",
+    "city": "Trujillo",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,869",
+    "city": "Vijes",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,176",
+    "city": "Chimá",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,670",
+    "city": "Sampués",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,225",
+    "city": "Nunchía",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,518",
+    "city": "Pamplona",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,019",
+    "city": "Albán",
+    "": ""
+  },
+  {
+    "state_code": 97,
+    "city_code": "97,889",
+    "city": "Yavaraté",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,466",
+    "city": "Montelíbano",
+    "": ""
+  },
+  {
+    "state_code": 86,
+    "city_code": "86,568",
+    "city": "Puerto Asís",
+    "": ""
+  },
+  {
+    "state_code": 70,
+    "city_code": "70,215",
+    "city": "Corozal",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,110",
+    "city": "Buesaco",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,139",
+    "city": "Maní",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,268",
+    "city": "El Peñón",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,834",
+    "city": "Tuluá",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,152",
+    "city": "Casabianca",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,040",
+    "city": "Anolaima",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,175",
+    "city": "Chía",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,835",
+    "city": "San Andrés de Tumaco",
+    "": ""
+  },
+  {
+    "state_code": 18,
+    "city_code": "18,460",
+    "city": "Milán",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,147",
+    "city": "Capitanejo",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,043",
+    "city": "Anzoátegui",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,275",
+    "city": "Florida",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,606",
+    "city": "Repelón",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,284",
+    "city": "Frontino",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,258",
+    "city": "El Peñón",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,520",
+    "city": "Pamplonita",
+    "": ""
+  },
+  {
+    "state_code": 91,
+    "city_code": "91,460",
+    "city": "Miriti Paraná",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,400",
+    "city": "Támara",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,806",
+    "city": "Tibasosa",
+    "": ""
+  },
+  {
+    "state_code": 19,
+    "city_code": "19,517",
+    "city": "Páez",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,001",
+    "city": "Ibagué",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,573",
+    "city": "Puerto Colombia",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,083",
+    "city": "Belén",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,758",
+    "city": "Sopó",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,150",
+    "city": "Carmen del Darien",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,299",
+    "city": "Gama",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,718",
+    "city": "Sasaima",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,240",
+    "city": "Chachagüí",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,001",
+    "city": "Cúcuta",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,001",
+    "city": "Cartagena",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,313",
+    "city": "Granada",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,720",
+    "city": "Santa Bárbara de Pinto",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,442",
+    "city": "María la Baja",
+    "": ""
+  },
+  {
+    "state_code": 18,
+    "city_code": "18,410",
+    "city": "La Montañita",
+    "": ""
+  },
+  {
+    "state_code": 18,
+    "city_code": "18,753",
+    "city": "San Vicente del Caguán",
+    "": ""
+  },
+  {
+    "state_code": 68,
+    "city_code": "68,250",
+    "city": "El Peñón",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,364",
+    "city": "Jardín",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,364",
+    "city": "Jamundí",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,787",
+    "city": "Tadó",
+    "": ""
+  },
+  {
+    "state_code": 85,
+    "city_code": "85,230",
+    "city": "Orocué",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,411",
+    "city": "Líbano",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,885",
+    "city": "Yacopí",
+    "": ""
+  },
+  {
+    "state_code": 63,
+    "city_code": "63,130",
+    "city": "Calarcá",
+    "": ""
+  },
+  {
+    "state_code": 5,
+    "city_code": "5,756",
+    "city": "Sonsón",
+    "": ""
+  },
+  {
+    "state_code": 54,
+    "city_code": "54,245",
+    "city": "El Carmen",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,408",
+    "city": "Lérida",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,350",
+    "city": "La Apartada",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,620",
+    "city": "San Cristóbal",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,290",
+    "city": "Fusagasugá",
+    "": ""
+  },
+  {
+    "state_code": 13,
+    "city_code": "13,894",
+    "city": "Zambrano",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,403",
+    "city": "La Uvita",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,899",
+    "city": "Zipaquirá",
+    "": ""
+  },
+  {
+    "state_code": 63,
+    "city_code": "63,302",
+    "city": "Génova",
+    "": ""
+  },
+  {
+    "state_code": 73,
+    "city_code": "73,770",
+    "city": "Suárez",
+    "": ""
+  },
+  {
+    "state_code": 50,
+    "city_code": "50,150",
+    "city": "Castilla la Nueva",
+    "": ""
+  },
+  {
+    "state_code": 15,
+    "city_code": "15,087",
+    "city": "Belén",
+    "": ""
+  },
+  {
+    "state_code": 27,
+    "city_code": "27,810",
+    "city": "Unión Panamericana",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,570",
+    "city": "Pueblo Viejo",
+    "": ""
+  },
+  {
+    "state_code": 86,
+    "city_code": "86,885",
+    "city": "Villagarzón",
+    "": ""
+  },
+  {
+    "state_code": 25,
+    "city_code": "25,269",
+    "city": "Facatativá",
+    "": ""
+  },
+  {
+    "state_code": 23,
+    "city_code": "23,580",
+    "city": "Puerto Libertador",
+    "": ""
+  },
+  {
+    "state_code": 17,
+    "city_code": "17,444",
+    "city": "Marquetalia",
+    "": ""
+  },
+  {
+    "state_code": 52,
+    "city_code": "52,051",
+    "city": "Arboleda",
+    "": ""
+  },
+  {
+    "state_code": 76,
+    "city_code": "76,109",
+    "city": "Buenaventura",
+    "": ""
+  },
+  {
+    "state_code": 47,
+    "city_code": "47,189",
+    "city": "Ciénaga",
+    "": ""
+  },
+  {
+    "state_code": 8,
+    "city_code": "8,560",
+    "city": "Ponedera",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  },
+  {
+    "state_code": "",
+    "city_code": "",
+    "city": "",
+    "": ""
+  }
+]
