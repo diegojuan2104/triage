@@ -21,15 +21,20 @@ import Paper from '@mui/material/Paper';
 import Autocomplete from '@mui/material/Autocomplete';
 
 import Grid from '@mui/material/Grid';
+import { InputAdornment, OutlinedInput } from '@mui/material';
+
+import TablaExcel from './components/TablaExcel';
+
 
 
 const App = () => {
   const [nombreCliente, setNombreCliente] = React.useState('');
   const [actividad, setNombreActividad] = React.useState('');
-  const [nit, setNombreNit] = React.useState('');
+  const [nit, setNIT] = React.useState('');
+  const [TRM, setTRM] = React.useState(0);
   const [broker, setBroker] = React.useState('');
 
-  console.log(brokers)
+ 
   const options = ['Option 1', 'Option 2'];
   const limpiarCampos = () => {
   }
@@ -47,7 +52,7 @@ const App = () => {
           <Grid item xs={4}>
             <TextField
               sx={{ m: 1, width: '30ch' }}
-              value={nit} onChange={(e) => { setNombreNit(e.target.value) }} label="NIT" color="secondary" focused />
+              value={nit} onChange={(e) => { setNIT(e.target.value.replace(/\D/, '')) }} label="NIT/CC" color="secondary" focused />
           </Grid>
           <Grid item xs={12}>
             <TextField
@@ -56,32 +61,43 @@ const App = () => {
           </Grid>
           <Grid item xs={6}>
 
-      <Autocomplete
-       sx={{ m: 1, width: '68ch' }}
-      id="country-select-demo"
-      options={brokers.default}
-      autoHighlight
-      getOptionLabel={(option) => option.intermediarios}
-      renderOption={(props, option) => (
-        <Box component="li" sx={{ '& > img': { mr: 2, flexShrink: 0 } }} {...props}>
-          {option.intermediarios}
-        </Box>
-      )}
-      renderInput={(params) => (
-        <TextField
-          {...params}
-          label="Choose a country"
-          inputProps={{
-            ...params.inputProps,
-            autoComplete: 'new-password', // disable autocomplete and autofill
-          }}
-        />
-      )}
-    />
-        </Grid>
+            <Autocomplete
+              sx={{ m: 1, width: '68ch' }}
+              id="country-select-demo"
+              options={brokers.default}
+              autoHighlight
+              getOptionLabel={(option) => option.intermediarios}
+              renderOption={(props, option) => (
+                <Box component="li" sx={{ '& > img': { mr: 2, flexShrink: 0 } }} {...props}>
+                  {option.intermediarios}
+                </Box>
+              )}
+              renderInput={(params) => (
+                <TextField
+                  value={broker}
+                  {...params}
+                  label="Broker"
+                  inputProps={{
+                    ...params.inputProps,
+                  }}
+                />
+              )}
+            />
+          </Grid>
+          <Grid item xs={6}>
 
+
+          <OutlinedInput
+             type='number'
+             sx={{ m: 1, width: '70ch' }}
+             value={TRM} onChange={(e) => { setTRM(e.target.value) }} label="TRM" color="secondary" focused
+            startAdornment={<InputAdornment position="start">COP</InputAdornment>}
+          />
+          </Grid>
         </Grid>
       </Box>
+
+      <TablaExcel/>
     </div>
   );
 }
