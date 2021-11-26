@@ -1,146 +1,5607 @@
 [
   {
-    "code": 5,
-    "name": "Antioquia"
+    "Municipio": "ABEJORRAL",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
   },
   {
-    "code": 8,
-    "name": "Atlántico"
+    "Municipio": "ABREGO",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
   },
   {
-    "code": 9,
-    "name": "Barranquilla D.E"
+    "Municipio": "ABRIAQUI",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
   },
   {
-    "code": 11,
-    "name": "Santa Fe de Bogotá D.C."
+    "Municipio": "ACACIAS",
+    "Departamento": "META",
+    "Zona ZURICH": 3
   },
   {
-    "code": 13,
-    "name": "Bolívar"
+    "Municipio": "ACANDI",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
   },
   {
-    "code": 14,
-    "name": "Cartagena D.E."
+    "Municipio": "ACEVEDO",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
   },
   {
-    "code": 15,
-    "name": "Boyaca"
+    "Municipio": "ACHI",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
   },
   {
-    "code": 17,
-    "name": "Caldas"
+    "Municipio": "AGRADO",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
   },
   {
-    "code": 18,
-    "name": "Caquetá"
+    "Municipio": "AGUA DE DIOS",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
   },
   {
-    "code": 19,
-    "name": "Cauca"
+    "Municipio": "AGUACHICA",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
   },
   {
-    "code": 20,
-    "name": "Cesar"
+    "Municipio": "AGUADA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
   },
   {
-    "code": 23,
-    "name": "Córdova"
+    "Municipio": "AGUADAS",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
   },
   {
-    "code": 25,
-    "name": "Cundinamarca"
+    "Municipio": "AGUAZUL",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
   },
   {
-    "code": 27,
-    "name": "Chocó"
+    "Municipio": "AGUSTIN CODAZZI",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
   },
   {
-    "code": 41,
-    "name": "Huila"
+    "Municipio": "AIPE",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
   },
   {
-    "code": 44,
-    "name": "La Guajira"
+    "Municipio": "ALBAN",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
   },
   {
-    "code": 47,
-    "name": "Magdalena"
+    "Municipio": "ALBAN",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
   },
   {
-    "code": 48,
-    "name": "Santamarta D.E"
+    "Municipio": "ALBANIA",
+    "Departamento": "CAQUETA",
+    "Zona ZURICH": 3
   },
   {
-    "code": 50,
-    "name": "Meta"
+    "Municipio": "ALBANIA",
+    "Departamento": "LA GUAJIRA",
+    "Zona ZURICH": 2
   },
   {
-    "code": 52,
-    "name": "Nariño"
+    "Municipio": "ALBANIA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
   },
   {
-    "code": 54,
-    "name": "Norte de Santander"
+    "Municipio": "ALCALA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
   },
   {
-    "code": 63,
-    "name": "Quindio"
+    "Municipio": "ALDANA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
   },
   {
-    "code": 66,
-    "name": "Risaralda"
+    "Municipio": "ALEJANDRIA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
   },
   {
-    "code": 68,
-    "name": "Santander"
+    "Municipio": "ALGARROBO",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
   },
   {
-    "code": 70,
-    "name": "Sucre"
+    "Municipio": "ALGECIRAS",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
   },
   {
-    "code": 73,
-    "name": "Tolima"
+    "Municipio": "ALMAGUER",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
   },
   {
-    "code": 76,
-    "name": "Valle"
+    "Municipio": "ALMEIDA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
   },
   {
-    "code": 81,
-    "name": "Arauca"
+    "Municipio": "ALPUJARRA",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
   },
   {
-    "code": 85,
-    "name": "Casanare"
+    "Municipio": "ALTAMIRA",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
   },
   {
-    "code": 86,
-    "name": "Putumayo"
+    "Municipio": "ALTO BAUDO",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
   },
   {
-    "code": 88,
-    "name": "San Andrés"
+    "Municipio": "ALTOS DEL ROSARIO",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
   },
   {
-    "code": 91,
-    "name": "Amazonas"
+    "Municipio": "ALVARADO",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
   },
   {
-    "code": 94,
-    "name": "Guainía"
+    "Municipio": "AMAGA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
   },
   {
-    "code": 95,
-    "name": "Guaviare"
+    "Municipio": "AMALFI",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
   },
   {
-    "code": 97,
-    "name": "Vaupés"
+    "Municipio": "AMBALEMA",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
   },
   {
-    "code": 99,
-    "name": "Vichada"
+    "Municipio": "ANAPOIMA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ANCUYA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ANDALUCIA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ANDES",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ANGELOPOLIS",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ANGOSTURA",
+    "Departamento": "",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ANOLAIMA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ANORI",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ANSERMA",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ANSERMANUEVO",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ANZA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ANZOATEGUI",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "APARTADO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "APIA",
+    "Departamento": "RISARALDA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "APULO",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "AQUITANIA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ARACATACA",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ARANZAZU",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ARATOCA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ARAUCA",
+    "Departamento": "ARAUCA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "ARAUQUITA",
+    "Departamento": "ARAUCA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "ARBELAEZ",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ARBOLEDA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ARBOLEDAS",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ARBOLETES",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ARCABUCO",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ARENAL",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": ""
+  },
+  {
+    "Municipio": "ARGELIA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ARGELIA",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ARGELIA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ARIGUANI",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ARJONA",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ARMENIA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ARMENIA",
+    "Departamento": "QUINDIO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ARMERO",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ARROYOHONDO",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ASTREA",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ATACO",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ATRATO",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "AYAPEL",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BAGADO",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BAHIA SOLANO",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BAJO BAUDO",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BALBOA",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BALBOA",
+    "Departamento": "RISARALDA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BARANOA",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BARAYA",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BARBACOAS",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BARBOSA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BARBOSA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BARICHARA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BARRANCA DE UPIA",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "BARRANCABERMEJA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BARRANCAS",
+    "Departamento": "LA GUAJIRA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BARRANCO DE LOBA",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BARRANCO MINAS",
+    "Departamento": "GUAINIA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "BARRANQUILLA",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BECERRIL",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BELALCAZAR",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BELEN",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BELEN",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BELEN DE LOS ANDAQUIES",
+    "Departamento": "CAQUETA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "BELEN DE UMBRIA",
+    "Departamento": "RISARALDA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BELLO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BELMIRA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BELTRAN",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BERBEO",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BETANIA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BETEITIVA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BETULIA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BETULIA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BITUIMA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BOAVITA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BOCHALEMA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BOGOTA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BOJACA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BOJAYA",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BOLIVAR",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BOLIVAR",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BOLIVAR",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BOSCONIA",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BOYACA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BRICEÑO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BRICEÑO",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BUCARAMANGA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BUCARASICA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BUENAVENTURA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BUENAVISTA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BUENAVISTA",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BUENAVISTA",
+    "Departamento": "QUINDIO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BUENAVISTA",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "BUENOS AIRES",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BUESACO",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BUGA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BUGALAGRANDE",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BURITICA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "BUSBANZA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CABRERA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CABRERA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CABUYARO",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "CACAHUAL",
+    "Departamento": "GUAINIA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "CACERES",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CACHIPAY",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CACHIRA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CACOTA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CAICEDO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CAICEDONIA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CAIMITO",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CAJAMARCA",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CAJIBIO",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CAJICA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CALAMAR",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CALAMAR",
+    "Departamento": "GUAVIARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "CALARCA",
+    "Departamento": "QUINDIO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CALDAS",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CALDAS",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CALDONO",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CALI",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CALIFORNIA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CALIMA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CALOTO",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CAMPAMENTO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CAMPO DE LA CRUZ",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CAMPOALEGRE",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CAMPOHERMOSO",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CANALETE",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CANDELARIA",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CANDELARIA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CANTAGALLO",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CAÑASGORDAS",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CAPARRAPI",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CAPITANEJO",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CAQUEZA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CARACOLI",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CARAMANTA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CARCASI",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CAREPA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CARMEN DE APICALA",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CARMEN DE CARUPA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CARMEN DEL DARIEN",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CAROLINA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CARTAGENA",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CARTAGENA DEL CHAIRA",
+    "Departamento": "CAQUETA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "CARTAGO",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CARURU",
+    "Departamento": "VAUPES",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "CASABIANCA",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CASTILLA LA NUEVA",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "CAUCASIA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CEPITA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CERETE",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CERINZA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CERRITO",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CERRO SAN ANTONIO",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CERTEGUI",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CHACHAGsI",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CHAGUANI",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CHALAN",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHAMEZA",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "CHAPARRAL",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHARALA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHARTA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHIA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CHIBOLO",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHIGORODO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CHIMA",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHIMA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHIMICHAGUA",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHINACOTA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHINAVITA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHINCHINA",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHINU",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHIPAQUE",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CHIPATA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHIQUINQUIRA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHIQUIZA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHIRIGUANA",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHISCAS",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHITA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHITAGA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHITARAQUE",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHIVATA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHIVOR",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CHOACHI",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CHOCONTA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CICUCO",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CIENAGA",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CIENAGA DE ORO",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CIENEGA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CIMITARRA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CIRCASIA",
+    "Departamento": "QUINDIO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CISNEROS",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CIUDAD BOLIVAR",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CLEMENCIA",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "COCORNA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "COELLO",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "COGUA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "COLOMBIA",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "COLON",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "COLON",
+    "Departamento": "PUTUMAYO",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "COLOSO",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "COMBITA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CONCEPCION",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CONCEPCION",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CONCORDIA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CONCORDIA",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CONDOTO",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CONFINES",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CONSACA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CONTADERO",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CONTRATACION",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CONVENCION",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "COPACABANA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "COPER",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CORDOBA",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CORDOBA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CORDOBA",
+    "Departamento": "QUINDIO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CORINTO",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "COROMORO",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "COROZAL",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CORRALES",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "COTA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "COTORRA",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "COVARACHIA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "COVEÑAS",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "COYAIMA",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CRAVO NORTE",
+    "Departamento": "ARAUCA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "CUASPUD",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CUBARA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CUBARRAL",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "CUCAITA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CUCUNUBA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CUCUTA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CUCUTILLA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CUITIVA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CUMARAL",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "CUMARIBO",
+    "Departamento": "VICHADA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "CUMBAL",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CUMBITARA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "CUNDAY",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CURILLO",
+    "Departamento": "CAQUETA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "CURITI",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "CURUMANI",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "DABEIBA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "DAGUA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "DIBULLA",
+    "Departamento": "LA GUAJIRA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "DISTRACCION",
+    "Departamento": "LA GUAJIRA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "DOLORES",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "DON MATIAS",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "DOSQUEBRADAS",
+    "Departamento": "RISARALDA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "DUITAMA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "DURANIA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EBEJICO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL AGUILA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL BAGRE",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL BANCO",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL CAIRO",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL CALVARIO",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "EL CANTON DEL SAN PABLO",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL CARMEN",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL CARMEN DE ATRATO",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL CARMEN DE BOLÍVAR",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL CARMEN DE CHUCURI",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL CARMEN DE VIBORAL",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL CASTILLO",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "EL CERRITO",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL CHARCO",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL COCUY",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL COLEGIO",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL COPEY",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL DONCELLO",
+    "Departamento": "CAQUETA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "EL DORADO",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "EL DOVIO",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL ENCANTO",
+    "Departamento": "AMAZONAS",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "EL ESPINO",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL GUACAMAYO",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL GUAMO",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL LITORAL DEL SAN JUAN",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL MOLINO",
+    "Departamento": "LA GUAJIRA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL PASO",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL PAUJIL",
+    "Departamento": "CAQUETA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "EL PEÑOL",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL PEÑON",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL PEÑON",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL PEÑON",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL PIÑON",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL PLAYON",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL RETEN",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL RETORNO",
+    "Departamento": "GUAVIARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "EL ROBLE",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL ROSAL",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL ROSARIO",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL SANTUARIO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL TABLON DE GOMEZ",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL TAMBO",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL TAMBO",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "EL TARRA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "EL ZULIA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ELIAS",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ENCINO",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ENCISO",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ENTRERRIOS",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ENVIGADO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ESPINAL",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "FACATATIVA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "FALAN",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "FILADELFIA",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "FILANDIA",
+    "Departamento": "QUINDIO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "FIRAVITOBA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "FLANDES",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "FLORENCIA",
+    "Departamento": "CAQUETA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "FLORENCIA",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "FLORESTA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "FLORIAN",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "FLORIDA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "FLORIDABLANCA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "FOMEQUE",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "FONSECA",
+    "Departamento": "LA GUAJIRA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "FORTUL",
+    "Departamento": "ARAUCA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "FOSCA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "FRANCISCO PIZARRO",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "FREDONIA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "FRESNO",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "FRONTINO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "FUENTE DE ORO",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "FUNDACION",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "FUNES",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "FUNZA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "FUQUENE",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "FUSAGASUGA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GACHALA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GACHANCIPA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GACHANTIVA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GACHETA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GALAN",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GALAPA",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GALERAS",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GAMA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GAMARRA",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GAMBITA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GAMEZA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GARAGOA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GARZON",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GENOVA",
+    "Departamento": "QUINDIO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GIGANTE",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GINEBRA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GIRALDO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GIRARDOT",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GIRARDOTA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GIRON",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GOMEZ PLATA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GONZALEZ",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GRAMALOTE",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GRANADA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GRANADA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GRANADA",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "GsEPSA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GsICAN",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GUACA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GUACAMAYAS",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GUACARI",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUACHENE",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUACHETA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUACHUCAL",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUADALAJARA DE BUGA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUADALUPE",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUADALUPE",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GUADALUPE",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GUADUAS",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUAITARILLA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUALMATAN",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUAMAL",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GUAMAL",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "GUAMO",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GUAPI",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUAPOTA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GUARANDA",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GUARNE",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUASCA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUATAPE",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUATAQUI",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUATAVITA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUATEQUE",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GUATICA",
+    "Departamento": "RISARALDA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUAVATA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GUAYABAL DE SIQUIMA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUAYABETAL",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "GUAYATA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "GUTIERREZ",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "HACARI",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "HATILLO DE LOBA",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "HATO",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "HATO COROZAL",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "HATONUEVO",
+    "Departamento": "LA GUAJIRA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "HELICONIA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "HERRAN",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "HERVEO",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "HISPANIA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "HOBO",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "HONDA",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "IBAGUE",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ICONONZO",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ILES",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "IMUES",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "INIRIDA",
+    "Departamento": "GUAINIA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "INZA",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "IPIALES",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "IQUIRA",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ISNOS",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ISTMINA",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ITAGUI",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ITUANGO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "IZA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "JAMBALO",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "JAMUNDI",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "JARDIN",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "JENESANO",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "JERICO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "JERICO",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "JERUSALEN",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "JESUS MARIA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "JORDAN",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "JUAN DE ACOSTA",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "JUNIN",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "JURADO",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA APARTADA",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LA ARGENTINA",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LA BELLEZA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LA CALERA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA CAPILLA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LA CEJA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA CELIA",
+    "Departamento": "RISARALDA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA CHORRERA",
+    "Departamento": "AMAZONAS",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "LA CRUZ",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA CUMBRE",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA DORADA",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LA ESPERANZA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LA ESTRELLA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA FLORIDA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA GLORIA",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LA GUADALUPE",
+    "Departamento": "GUAINIA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "LA JAGUA DE IBIRICO",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LA JAGUA DEL PILAR",
+    "Departamento": "LA GUAJIRA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LA LLANADA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA MACARENA",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "LA MERCED",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LA MESA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA MONTAÑITA",
+    "Departamento": "CAQUETA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "LA PALMA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA PAZ",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LA PAZ",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LA PEDRERA",
+    "Departamento": "AMAZONAS",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "LA PEÑA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA PINTADA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA PLATA",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LA PLAYA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LA PRIMAVERA",
+    "Departamento": "VICHADA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "LA SALINA",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "LA SIERRA",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA TEBAIDA",
+    "Departamento": "QUINDIO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA TOLA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA UNION",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA UNION",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA UNION",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LA UNION",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA UVITA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LA VEGA",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA VEGA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA VICTORIA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LA VICTORIA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LA VICTORIA",
+    "Departamento": "AMAZONAS",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "LA VIRGINIA",
+    "Departamento": "RISARALDA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LABATECA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LABRANZAGRANDE",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LANDAZURI",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LEBRIJA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LEGUIZAMO",
+    "Departamento": "PUTUMAYO",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "LEIVA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LEJANIAS",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "LENGUAZAQUE",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LERIDA",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LETICIA",
+    "Departamento": "AMAZONAS",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "LIBANO",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LIBORINA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LINARES",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LLORO",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LOPEZ",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LORICA",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LOS ANDES",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "LOS CORDOBAS",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LOS PALMITOS",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LOS PATIOS",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LOS SANTOS",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LOURDES",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "LURUACO",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MACANAL",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MACARAVITA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MACEO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MACHETA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MADRID",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MAGANGUE",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MAGsI",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MAHATES",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MAICAO",
+    "Departamento": "LA GUAJIRA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MAJAGUAL",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MALAGA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MALAMBO",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MALLAMA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MANATI",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MANAURE",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MANAURE",
+    "Departamento": "LA GUAJIRA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MANI",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "MANIZALES",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MANTA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MANZANARES",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MAPIRIPAN",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "MAPIRIPANA",
+    "Departamento": "GUAINIA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "MARGARITA",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MARIA LA BAJA",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MARINILLA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MARIPI",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MARIQUITA",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MARMATO",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MARQUETALIA",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MARSELLA",
+    "Departamento": "RISARALDA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MARULANDA",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MATANZA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MEDELLIN",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MEDINA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MEDIO ATRATO",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MEDIO BAUDO",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MEDIO SAN JUAN",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MELGAR",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MERCADERES",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MESETAS",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "MILAN",
+    "Departamento": "CAQUETA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "MIRAFLORES",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MIRAFLORES",
+    "Departamento": "GUAVIARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "MIRANDA",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MIRITI - PARANA",
+    "Departamento": "AMAZONAS",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "MISTRATO",
+    "Departamento": "RISARALDA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MITU",
+    "Departamento": "VAUPES",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "MOCOA",
+    "Departamento": "PUTUMAYO",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "MOGOTES",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MOLAGAVITA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MOMIL",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MOMPOS",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MONGUA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MONGUI",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MONIQUIRA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MONTEBELLO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MONTECRISTO",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MONTELIBANO",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MONTENEGRO",
+    "Departamento": "QUINDIO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MONTERIA",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MONTERREY",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "MOÑITOS",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MORALES",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MORALES",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MORELIA",
+    "Departamento": "CAQUETA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "MORICHAL",
+    "Departamento": "GUAINIA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "MORROA",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MOSQUERA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MOSQUERA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MOTAVITA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MURILLO",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MURINDO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MUTATA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "MUTISCUA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "MUZO",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "NARIÑO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "NARIÑO",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "NARIÑO",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "NATAGA",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "NATAGAIMA",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "NECHI",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "NECOCLI",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "NEIRA",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "NEIVA",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "NEMOCON",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "NILO",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "NIMAIMA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "NOBSA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "NOCAIMA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "NORCASIA",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "NOROSI",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "NOVITA",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "NUEVA GRANADA",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "NUEVO COLON",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "NUNCHIA",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "NUQUI",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "OBANDO",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "OCAMONTE",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "OCAÑA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "OIBA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "OICATA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "OLAYA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "OLAYA HERRERA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ONZAGA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "OPORAPA",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ORITO",
+    "Departamento": "PUTUMAYO",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "OROCUE",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "ORTEGA",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "OSPINA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "OTANCHE",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "OVEJAS",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PACHAVITA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PACHO",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PACOA",
+    "Departamento": "VAUPES",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PACORA",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PADILLA",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PAEZ",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PAEZ",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PAICOL",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PAILITAS",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PAIME",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PAIPA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PAJARITO",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PALERMO",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PALESTINA",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PALESTINA",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PALMAR",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PALMAR DE VARELA",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PALMAS DEL SOCORRO",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PALMIRA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PALMITO",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PALOCABILDO",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PAMPLONA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PAMPLONITA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PANA PANA",
+    "Departamento": "GUAINIA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PANDI",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PANQUEBA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PAPUNAUA",
+    "Departamento": "VAUPES",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PARAMO",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PARATEBUENO",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PASCA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PASTO",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PATIA",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PAUNA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PAYA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PAZ DE ARIPORO",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PAZ DE RIO",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PEÐOL",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PEDRAZA",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PELAYA",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PENSILVANIA",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PEQUE",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PEREIRA",
+    "Departamento": "RISARALDA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PESCA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PIAMONTE",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PIEDECUESTA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PIEDRAS",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PIENDAMO",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PIJAO",
+    "Departamento": "QUINDIO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PIJIÑO DEL CARMEN",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PINCHOTE",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PINILLOS",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PIOJO",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PISBA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PITAL",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PITALITO",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PIVIJAY",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PLANADAS",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PLANETA RICA",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PLATO",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "POLICARPA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "POLONUEVO",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PONEDERA",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "POPAYAN",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PORE",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "POTOSI",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PRADERA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PRADO",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PROVIDENCIA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PROVIDENCIA",
+    "Departamento": "SAN ANDRES",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PUEBLO BELLO",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PUEBLO NUEVO",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PUEBLO RICO",
+    "Departamento": "RISARALDA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PUEBLORRICO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PUEBLOVIEJO",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PUENTE NACIONAL",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PUERRES",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PUERTO ALEGRIA",
+    "Departamento": "AMAZONAS",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PUERTO ARICA",
+    "Departamento": "AMAZONAS",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PUERTO ASIS",
+    "Departamento": "PUTUMAYO",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PUERTO BERRIO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PUERTO BOYACA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PUERTO CAICEDO",
+    "Departamento": "PUTUMAYO",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PUERTO CARREÑO",
+    "Departamento": "VICHADA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PUERTO COLOMBIA",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PUERTO COLOMBIA",
+    "Departamento": "GUAINIA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PUERTO CONCORDIA",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PUERTO ESCONDIDO",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PUERTO GAITAN",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PUERTO GUZMAN",
+    "Departamento": "PUTUMAYO",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PUERTO LIBERTADOR",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PUERTO LLERAS",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PUERTO LOPEZ",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PUERTO NARE",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PUERTO NARIÑO",
+    "Departamento": "AMAZONAS",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PUERTO PARRA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PUERTO RICO",
+    "Departamento": "CAQUETA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PUERTO RICO",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PUERTO RONDON",
+    "Departamento": "ARAUCA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PUERTO SALGAR",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PUERTO SANTANDER",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PUERTO SANTANDER",
+    "Departamento": "AMAZONAS",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "PUERTO TEJADA",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PUERTO TRIUNFO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PUERTO WILCHES",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PULI",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PUPIALES",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PURACE",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "PURIFICACION",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "PURISIMA",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "QUEBRADANEGRA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "QUETAME",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "QUIBDO",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "QUIMBAYA",
+    "Departamento": "QUINDIO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "QUINCHIA",
+    "Departamento": "RISARALDA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "QUIPAMA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "QUIPILE",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "RAGONVALIA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "RAMIRIQUI",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "RAQUIRA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "RECETOR",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "REGIDOR",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "REMEDIOS",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "REMOLINO",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "REPELON",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "RESTREPO",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "RESTREPO",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "RETIRO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "RICAURTE",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "RICAURTE",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "RIO DE ORO",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "RIO IRO",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "RIO QUITO",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "RIO VIEJO",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "RIOBLANCO",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "RIOFRIO",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "RIOHACHA",
+    "Departamento": "LA GUAJIRA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "RIONEGRO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "RIONEGRO",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "RIOSUCIO",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "RIOSUCIO",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "RISARALDA",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "RIVERA",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ROBERTO PAYAN",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ROLDANILLO",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "RONCESVALLES",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "RONDON",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ROSAS",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ROVIRA",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SABANA DE TORRES",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SABANAGRANDE",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SABANALARGA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SABANALARGA",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SABANALARGA",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SABANAS DE SAN ANGEL",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SABANETA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SABOYA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SACAMA",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SACHICA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAHAGUN",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SALADOBLANCO",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SALAMINA",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SALAMINA",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SALAZAR",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SALDAÑA",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SALENTO",
+    "Departamento": "QUINDIO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SALGAR",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAMACA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAMANA",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAMANIEGO",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAMPUES",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN AGUSTIN",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN ALBERTO",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN ANDRES",
+    "Departamento": "SAN ANDRES",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN ANDRES",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN ANDRES DE CUERQUIA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN ANDRES DE TUMACO",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN ANDRES SOTAVENTO",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN ANTERO",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN ANTONIO",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN ANTONIO DEL TEQUENDAMA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN BENITO",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN BENITO ABAD",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN BERNARDO",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN BERNARDO",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN BERNARDO DEL VIENTO",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN CALIXTO",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN CARLOS",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN CARLOS",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN CARLOS DE GUAROA",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SAN CAYETANO",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN CAYETANO",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN CRISTOBAL",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN DIEGO",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN EDUARDO",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN ESTANISLAO",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN FELIPE",
+    "Departamento": "GUAINIA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SAN FERNANDO",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN FRANCISCO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN FRANCISCO",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN FRANCISCO",
+    "Departamento": "PUTUMAYO",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SAN GIL",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN JACINTO",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN JACINTO DEL CAUCA",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN JERONIMO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN JOAQUIN",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN JOSE",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN JOSE DE LA MONTAÑA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN JOSE DE MIRANDA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN JOSE DE PARE",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN JOSE DEL FRAGUA",
+    "Departamento": "CAQUETA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SAN JOSE DEL GUAVIARE",
+    "Departamento": "GUAVIARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SAN JOSE DEL PALMAR",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN JUAN DE ARAMA",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SAN JUAN DE BETULIA",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN JUAN DE RIO SECO",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN JUAN DE URABA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN JUAN DEL CESAR",
+    "Departamento": "LA GUAJIRA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN JUAN NEPOMUCENO",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN JUANITO",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SAN LORENZO",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN LUIS",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN LUIS",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN LUIS DE GACENO",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN LUIS DE PALENQUE",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SAN LUIS DE SINCE",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN MARCOS",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN MARTIN",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN MARTIN",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SAN MARTIN DE LOBA",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN MATEO",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN MIGUEL",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN MIGUEL",
+    "Departamento": "PUTUMAYO",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SAN MIGUEL DE SEMA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN ONOFRE",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN PABLO",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN PABLO",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN PABLO DE BORBUR",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN PEDRO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN PEDRO",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN PEDRO",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN PEDRO DE CARTAGO",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN PEDRO DE URABA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN PELAYO",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN RAFAEL",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN ROQUE",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN SEBASTIAN",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN SEBASTIAN DE BUENAVISTA",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN VICENTE",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAN VICENTE DE CHUCURI",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SAN VICENTE DEL CAGUAN",
+    "Departamento": "CAQUETA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SAN ZENON",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANDONA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SANTA ANA",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTA BARBARA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SANTA BARBARA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SANTA BARBARA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTA BARBARA DE PINTO",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTA CATALINA",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTA HELENA DEL OPON",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTA ISABEL",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTA LUCIA",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTA MARIA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTA MARIA",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTA MARTA",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTA ROSA",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTA ROSA",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SANTA ROSA DE CABAL",
+    "Departamento": "RISARALDA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SANTA ROSA DE OSOS",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SANTA ROSA DE VITERBO",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTA ROSA DEL SUR",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTA ROSALIA",
+    "Departamento": "VICHADA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SANTA SOFIA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTACRUZ",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SANTAFE DE ANTIOQUIA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SANTANA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTANDER DE QUILICHAO",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SANTIAGO",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTIAGO",
+    "Departamento": "PUTUMAYO",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SANTIAGO DE TOLU",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTO DOMINGO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SANTO TOMAS",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SANTUARIO",
+    "Departamento": "RISARALDA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SAPUYES",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SARAVENA",
+    "Departamento": "ARAUCA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SARDINATA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SASAIMA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SATIVANORTE",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SATIVASUR",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SEGOVIA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SESQUILE",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SEVILLA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SIACHOQUE",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SIBATE",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SIBUNDOY",
+    "Departamento": "PUTUMAYO",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SILOS",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SILVANIA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SILVIA",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SIMACOTA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SIMIJACA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SIMITI",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SINCELEJO",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SIPI",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SITIONUEVO",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SOACHA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SOATA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SOCHA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SOCORRO",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SOCOTA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SOGAMOSO",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SOLANO",
+    "Departamento": "CAQUETA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SOLEDAD",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SOLITA",
+    "Departamento": "CAQUETA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "SOMONDOCO",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SONSON",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SOPETRAN",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SOPLAVIENTO",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SOPO",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SORA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SORACA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SOTAQUIRA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SOTARA",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SUAITA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SUAN",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SUAREZ",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SUAREZ",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SUAZA",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SUBACHOQUE",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SUCRE",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SUCRE",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SUCRE",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SUESCA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SUPATA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SUPIA",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SURATA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SUSA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SUSACON",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SUTAMARCHAN",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "SUTATAUSA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "SUTATENZA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TABIO",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TADO",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TALAIGUA NUEVO",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TAMALAMEQUE",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TAMARA",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "TAME",
+    "Departamento": "ARAUCA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "TAMESIS",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TAMINANGO",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TANGUA",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TARAIRA",
+    "Departamento": "VAUPES",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "TARAPACA",
+    "Departamento": "AMAZONAS",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "TARAZA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TARQUI",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TARSO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TASCO",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TAURAMENA",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "TAUSA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TELLO",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TENA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TENERIFE",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TENJO",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TENZA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TEORAMA",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TERUEL",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TESALIA",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TIBACUY",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TIBANA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TIBASOSA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TIBIRITA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TIBU",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TIERRALTA",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TIMANA",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TIMBIO",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TIMBIQUI",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TINJACA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TIPACOQUE",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TIQUISIO",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TITIRIBI",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TOCA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TOCAIMA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TOCANCIPA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TOGsI",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TOLEDO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TOLEDO",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TOLU VIEJO",
+    "Departamento": "SUCRE",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TONA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TOPAGA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TOPAIPI",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TORIBIO",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TORO",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TOTA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TOTORO",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TRINIDAD",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "TRUJILLO",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TUBARA",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TULUA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TUNJA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TUNUNGUA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TUQUERRES",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TURBACO",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TURBANA",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TURBO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "TURMEQUE",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TUTA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "TUTAZA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "UBALA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "UBAQUE",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ULLOA",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "UMBITA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "UNE",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "UNGUIA",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "UNION PANAMERICANA",
+    "Departamento": "CHOCO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "URAMITA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "URIBE",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "URIBIA",
+    "Departamento": "LA GUAJIRA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "URRAO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "URUMITA",
+    "Departamento": "LA GUAJIRA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "USIACURI",
+    "Departamento": "ATLANTICO",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "UTICA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "VALDIVIA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "VALENCIA",
+    "Departamento": "CORDOBA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VALLE DE SAN JOSE",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VALLE DE SAN JUAN",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VALLE DEL GUAMUEZ",
+    "Departamento": "PUTUMAYO",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "VALLEDUPAR",
+    "Departamento": "CESAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VALPARAISO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "VALPARAISO",
+    "Departamento": "CAQUETA",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "VEGACHI",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "VELEZ",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VENADILLO",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VENECIA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "VENECIA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "VENTAQUEMADA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VERGARA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "VERSALLES",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "VETAS",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VIANI",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "VICTORIA",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VIGIA DEL FUERTE",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "VIJES",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "VILLA CARO",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VILLA DE LEYVA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VILLA DE SAN DIEGO DE UBATE",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "VILLA DEL ROSARIO",
+    "Departamento": "NORTE DE SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VILLA RICA",
+    "Departamento": "CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "VILLAGARZON",
+    "Departamento": "PUTUMAYO",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "VILLAGOMEZ",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "VILLAHERMOSA",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VILLAMARIA",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VILLANUEVA",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VILLANUEVA",
+    "Departamento": "LA GUAJIRA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VILLANUEVA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VILLANUEVA",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "VILLAPINZON",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "VILLARRICA",
+    "Departamento": "TOLIMA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VILLAVICENCIO",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "VILLAVIEJA",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VILLETA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "VIOTA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "VIRACACHA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "VISTAHERMOSA",
+    "Departamento": "META",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "VITERBO",
+    "Departamento": "CALDAS",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "YACOPI",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "YACUANQUER",
+    "Departamento": "NARIÑO",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "YAGUARA",
+    "Departamento": "HUILA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "YALI",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "YARUMAL",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "YAVARATE",
+    "Departamento": "VAUPES",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "YOLOMBO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "YONDO",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "YOPAL",
+    "Departamento": "CASANARE",
+    "Zona ZURICH": 3
+  },
+  {
+    "Municipio": "YOTOCO",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "YUMBO",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ZAMBRANO",
+    "Departamento": "BOLIVAR",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ZAPATOCA",
+    "Departamento": "SANTANDER",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ZAPAYAN",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ZARAGOZA",
+    "Departamento": "ANTIOQUIA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ZARZAL",
+    "Departamento": "VALLE DEL CAUCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ZETAQUIRA",
+    "Departamento": "BOYACA",
+    "Zona ZURICH": 2
+  },
+  {
+    "Municipio": "ZIPACON",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ZIPAQUIRA",
+    "Departamento": "CUNDINAMARCA",
+    "Zona ZURICH": 1
+  },
+  {
+    "Municipio": "ZONA BANANERA",
+    "Departamento": "MAGDALENA",
+    "Zona ZURICH": 2
   }
 ]
