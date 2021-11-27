@@ -3,11 +3,12 @@ import Handsontable from 'handsontable';
 import 'handsontable/dist/handsontable.full.css';
 import { HotTable, HotColumn } from '@handsontable/react';
 import { registerAllModules } from 'handsontable/registry';
-import { TextField } from '@mui/material';
-
+import TextField from '@mui/material/TextField';
 
 import * as departamentos from '../datos/departamentos.json';
 import * as hg from '../datos/hg.json';
+
+import { nm } from "../util/helpers"
 // register Handsontable's modules
 registerAllModules();
 
@@ -28,9 +29,7 @@ const Tabla = () => {
     useEffect(() => {
     }, []);
 
-    const nm = (value) => {
-        return value.isInteger || !value ? (value.toLowerCase()).replace(/\s/g, '') : value
-    }
+
 
     useEffect(() => {
         let aux = hotData
@@ -45,21 +44,20 @@ const Tabla = () => {
     };
 
     const calculateData = () => {
-        let newMatrix = []
         for (let i = 0; i < hotData.length; i++) {
             let newRow = []
             for (let j = 0; j < hotData[i].length; j++) {
-                
-                
+
+
                 //COLUMNA MUNICIPIOS
                 if (j === 1) {
                     if (hotData[i][1]) {
-                        let municipio = nm(hotData[i][1])                        
+                        let municipio = nm(hotData[i][1])
                         let obj = departamentos.default.find(
-                        (item) =>  nm(item.Municipio) == municipio
-                        ) 
+                            (item) => nm(item.Municipio) == municipio
+                        )
 
-                        hotData[i][j + 1] = obj? obj.Departamento : ""
+                        hotData[i][j + 1] = obj ? obj.Departamento : ""
                     } else {
                         hotData[i][j + 1] = ""
                     }
@@ -70,11 +68,11 @@ const Tabla = () => {
                     if (hotData[i][3]) {
                         let naics = nm(hotData[i][3])
                         let obj = hg.default.find(
-                        (item) =>  nm(item["Property Code (NAICS)"]) == naics
+                            (item) => nm(item["Property Code (NAICS)"]) == naics
                         )
-                        hotData[i][j + 1] = obj != undefined? obj["Hazard Grade PD"] : ""
-                        hotData[i][j + 2] = obj != undefined? obj["Hazard Grade BI"] : ""
-                        hotData[i][j + 3] = obj != undefined? obj["Colombia Capacity Deployment Latam MM Guideline"] : ""
+                        hotData[i][j + 1] = obj != undefined ? obj["Hazard Grade PD"] : ""
+                        hotData[i][j + 2] = obj != undefined ? obj["Hazard Grade BI"] : ""
+                        hotData[i][j + 3] = obj != undefined ? obj["Colombia Capacity Deployment Latam MM Guideline"] : ""
                     } else {
                         hotData[i][j + 1] = ""
                     }
@@ -86,19 +84,24 @@ const Tabla = () => {
     };
 
 
+
+
     return (
         <div>
-
             <TextField
-                sx={{ m: 1, width: '30ch' }}
-                value={CU} onChange={(e) => {
+                required
+                variant="standard"
+                label="Cantidad de ubicaciones max(500)"
+                sx={{ my: 5, width: '30ch' }}
+                value={CU} 
+                onChange={(e) => {
                     if (CU * 100 <= 5000) {
                         setCU(e.target.value)
                     } else {
                         setCU('')
                     }
                 }}
-                label="Cantidad de ubicaciones max(500)" color="secondary" focused />
+            />
             <HotTable ref={hotTableComponent} settings={hotSettings2} data={hotData} licenseKey="non-commercial-and-evaluation">
                 <HotColumn title="Dirección" />
                 <HotColumn title="Municipio" />
