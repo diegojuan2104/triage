@@ -13,7 +13,7 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import Autocomplete from '@mui/material/Autocomplete';
 
 import Grid from '@mui/material/Grid';
-import { AppBar, Container, CssBaseline, Input, InputAdornment, Toolbar, Typography } from '@mui/material';
+import { AppBar, Container, CssBaseline, Input, InputAdornment, InputLabel, Toolbar, Typography } from '@mui/material';
 
 import TablaExcel from './components/TablaExcel';
 
@@ -21,7 +21,7 @@ const App = () => {
   const [nombreCliente, setNombreCliente] = React.useState('');
   const [actividad, setNombreActividad] = React.useState('');
   const [nit, setNIT] = React.useState('');
-  const [TRM, setTRM] = React.useState('');
+  const [TRM, setTRM] = React.useState(3756.2);
   const [broker, setBroker] = React.useState('');
 
   const theme = createTheme();
@@ -93,7 +93,10 @@ const App = () => {
                     </Grid>
                     <Grid item xs={12} md={6}>
                       {/* TRM */}
+
+                      <InputLabel htmlFor="standard-adornment-trm">TRM</InputLabel>
                       <Input
+                        id="standard-adornment-trm"
                         label="TRM"
                         required
                         fullWidth
@@ -132,14 +135,13 @@ const App = () => {
                   </Grid>
                 </React.Fragment>
               </React.Fragment>
-              <TablaExcel />
+              <TablaExcel trm={TRM} />
             </Paper>
-    
           </Container>
         </ThemeProvider>
       </React.Fragment>
 
-    
+
 
 
     </div>

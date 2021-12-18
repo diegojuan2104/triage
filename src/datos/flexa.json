@@ -1,65 +1,65 @@
 [
   {
-    "Desde": "-",
-    "Hasta": "1.000.000",
+    "Desde": 0,
+    "Hasta": 1000000,
     "Rango": 1,
-    "Light Hazard": "Basic",
-    "Moderate Hazard": "Basic"
+    "Light Hazard": "Formulario 1_COPE,green",
+    "Moderate Hazard": "Formulario 1_COPE,green"
   },
   {
-    "Desde": "1.000.001",
-    "Hasta": "2.500.000",
+    "Desde": 1000001,
+    "Hasta": 2500000,
     "Rango": 2,
-    "Light Hazard": "Basic",
-    "Moderate Hazard": "Basic"
+    "Light Hazard": "Formulario 1_COPE,green",
+    "Moderate Hazard": "Formulario 1_COPE,green"
   },
   {
-    "Desde": "2.500.001",
-    "Hasta": "5.000.000",
+    "Desde": 2500001,
+    "Hasta": 5000000,
     "Rango": 3,
-    "Light Hazard": "Basic",
-    "Moderate Hazard": "Int UW"
+    "Light Hazard": "Formulario 1_COPE,green",
+    "Moderate Hazard": "Formulario 2_UW,yellow"
   },
   {
-    "Desde": "5.000.001",
-    "Hasta": "10.000.000",
+    "Desde": 5000001,
+    "Hasta": 10000000,
     "Rango": 4,
-    "Light Hazard": "Int UW",
-    "Moderate Hazard": "Int UW"
+    "Light Hazard": "Formulario 2_UW,yellow",
+    "Moderate Hazard": "Formulario 2_UW,yellow"
   },
   {
-    "Desde": "10.000.001",
-    "Hasta": "20.000.000",
+    "Desde": 10000001,
+    "Hasta": 20000000,
     "Rango": 5,
-    "Light Hazard": "Int UW",
-    "Moderate Hazard": "Int RE"
+    "Light Hazard": "Formulario 2_UW,yellow",
+    "Moderate Hazard": "Remitir a RE,orange"
   },
   {
-    "Desde": "20.000.001",
-    "Hasta": "30.000.000",
+    "Desde": 20000001,
+    "Hasta": 30000000,
     "Rango": 6,
-    "Light Hazard": "Int UW",
-    "Moderate Hazard": "Int RE"
+    "Light Hazard": "Formulario 2_UW,yellow",
+    "Moderate Hazard": "Remitir a RE,orange"
   },
   {
-    "Desde": "30.000.001",
-    "Hasta": "40.000.000",
+    "Desde": 30000001,
+    "Hasta": 40000000,
     "Rango": 7,
-    "Light Hazard": "Int RE",
-    "Moderate Hazard": "RE Desktop"
+    "Light Hazard": "Remitir a RE,orange",
+    "Moderate Hazard": "Remitir a RE,red"
   },
   {
-    "Desde": "40.000.001",
-    "Hasta": "50.000.000",
+    "Desde": 40000001,
+    "Hasta": 50000000,
     "Rango": 8,
-    "Light Hazard": "Int RE",
-    "Moderate Hazard": "RE Desktop"
+    "Light Hazard": "Remitir a RE,orange",
+    "Moderate Hazard": "Remitir a RE,red"
   },
   {
-    "Desde": "50.000.001",
-    "Hasta": "100.000.000",
+    "Desde": 50000001,
+    "Hasta": 100000000,
     "Rango": 9,
-    "Light Hazard": "RE Desktop",
-    "Moderate Hazard": "RE Desktop"
+    "Light Hazard": "Remitir a RE,red",
+    "Moderate Hazard": "Remitir a RE,red"
   }
 ]
