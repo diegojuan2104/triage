@@ -138,11 +138,19 @@ const cc = (limit, tiv) => {
     return tiv == 0 ? Infinity : (limit / tiv) * 100 >= 100 ? 100 : ((limit / tiv) * 100).toFixed(4)
 }
 
+const cpa = (color, oc, tabla, tivusd) => {
+
+    if (oc === "" || !color || !tabla ) return 0
+    let item = tabla?.find((e) => nm(e.occupancy) === nm(oc))
+
+    let usd = parseFloat(item[color])
+    let porc = usd/ tivusd * 100
+
+    return porc > 100 ? 100 : porc.toFixed(4)
+}
 
 
-
-
-export { nm, nmNumber, parseMoney, moneyToNumber, parseMoneyUSD, USDtoNumber, hgPredominante, calcFlexa, calcCC, calcCCPorcEQ, calcCCPorcFLOOD }
+export { nm, nmNumber, parseMoney, moneyToNumber, parseMoneyUSD, USDtoNumber, hgPredominante, calcFlexa, calcCC, calcCCPorcEQ, calcCCPorcFLOOD, cpa}
 
 
 

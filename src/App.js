@@ -13,7 +13,9 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import Autocomplete from '@mui/material/Autocomplete';
 
 import Grid from '@mui/material/Grid';
-import { AppBar, Container, CssBaseline, Input, InputAdornment, InputLabel, Toolbar, Typography } from '@mui/material';
+import {
+  AppBar, Container, CssBaseline, Input, InputAdornment, InputLabel, Toolbar, Typography
+} from '@mui/material';
 
 import TablaExcel from './components/Cuerpo';
 
@@ -85,15 +87,41 @@ const App = () => {
 
                     </Grid>
                     <Grid item xs={12} md={6}>
-                      {/* ACTIVIDAD */}
-                      <TextField
-                        required
+                      {/* BROKER */}
+                      <Autocomplete
                         fullWidth
-                        value={actividad} onChange={(e) => { setNombreActividad(e.target.value) }} label="Actividad"
-                        variant="standard"
-                      />
+                        options={brokers.default}
+                        autoHighlight
+                        onChange={(e) => {
+                          setBroker(document.getElementsByClassName("MuiInputBase-inputAdornedEnd")[0].value)
+                        }}
+                        getOptionLabel={(option) => option.intermediarios}
+                        renderOption={(props, option) => (
+                          <Box component="li" sx={{ '& > img': { mr: 2, flexShrink: 0 } }} {...props}>
+                            {option.intermediarios}
+                          </Box>
+                        )}
+                        renderInput={
+                          (params) => (
+                            setBroker(...params.inputProps.value)
+                          ),
+                          (params) => (
 
+                            <TextField
+                              variant="standard"
+                              fullWidth
+                              className="broker"
+                              id="broker"
+                              {...params}
+                              label="Broker"
+                              inputProps={{
+                                ...params.inputProps,
+                              }}
+                            />
+                          )}
+                      />
                     </Grid>
+
                     <Grid item xs={12} md={6}>
                       {/* TRM */}
 
@@ -110,44 +138,22 @@ const App = () => {
                     </Grid>
 
                     <Grid item xs={12} md={6}>
-                      {/* BROKER */}
-                      <Autocomplete
+                      {/* ACTIVIDAD */}
+                      <TextField
+                        required
                         fullWidth
-                        options={brokers.default}
-                        autoHighlight
-                        onChange={(e) => {
-                          setBroker(document.getElementsByClassName("MuiInputBase-inputAdornedEnd")[0].value)
-                        }}
-                        getOptionLabel={(option) => option.intermediarios}
-                        renderOption={(props, option) => (
-                          <Box component="li" sx={{ '& > img': { mr: 2, flexShrink: 0 } }} {...props}>
-                            {option.intermediarios}
-                          </Box>
-                        )}
-                        renderInput={
-                          (params)=>(
-                            setBroker(...params.inputProps.value)
-                          ),
-                          (params) => (
-                            
-                          <TextField
-                            variant="standard"
-                            fullWidth
-                            className="broker"
-                            id="broker"
-                            {...params}
-                            label="Broker"
-                            inputProps={{
-                              ...params.inputProps,
-                            }}
-                          />
-                        )}
+                        value={actividad} onChange={(e) => { setNombreActividad(e.target.value) }} label="Actividad"
+                        variant="standard"
                       />
                     </Grid>
+
+
+
+
                   </Grid>
                 </React.Fragment>
               </React.Fragment>
-              <TablaExcel trm={TRM} cinf={{nombreCliente, nit, actividad, broker}} />
+              <TablaExcel trm={TRM} cinf={{ nombreCliente, nit, actividad, broker }} />
             </Paper>
           </Container>
         </ThemeProvider>

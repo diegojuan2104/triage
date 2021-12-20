@@ -22,7 +22,7 @@ import UW from '../docs/UW.docm';
 import ReactToPrint from "react-to-print";
 
 
-import { nm, nmNumber, parseMoney, moneyToNumber, parseMoneyUSD, USDtoNumber, hgPredominante, calcFlexa, calcCC, calcCCPorcFLOOD, calcCCPorcEQ } from "../util/helpers"
+import { nm, nmNumber, parseMoney, moneyToNumber, parseMoneyUSD, USDtoNumber, hgPredominante, calcFlexa, calcCC, calcCCPorcFLOOD, calcCCPorcEQ, cpa } from "../util/helpers"
 import { Button, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Toolbar, Typography } from '@mui/material';
 // register Handsontable's modules
 registerAllModules();
@@ -45,7 +45,11 @@ const Tabla = (props) => {
     const [flex, setFlex] = React.useState({})
     const [FLOOD, setFLOOD] = React.useState({})
     const [EQ, setEQ] = React.useState({})
-    const [broker, setBroker] = React.useState({})
+    const [broker, setBroker] = React.useState("")
+    const [fs, setFs] = React.useState(0)
+    const [fl, setFl] = React.useState(0)
+    const [gs, setGs] = React.useState(0)
+    const [gl, setGl] = React.useState(0)
 
     let countTIV = 0
     let countPD = 0
@@ -100,7 +104,9 @@ const Tabla = (props) => {
     }, [props.trm]);
 
     useEffect(() => {
-        setBroker(document.getElementsByClassName("MuiInputBase-inputAdornedEnd")[0].value)
+        let item = document?.getElementsByClassName("MuiInputBase-inputAdornedEnd")[0]?.value
+        console.log(item)
+        setBroker(item)
     }, [props.cinf]);
 
 
@@ -263,7 +269,15 @@ const Tabla = (props) => {
         countTIV = 0
         totalTIVUSDval = 0
         setHomogenea(homo.every(e => e === homo[0]))
-        setFlex(calcFlexa(hotData[mayorTIVIndex], flexa.default))
+
+        let flx = calcFlexa(hotData[mayorTIVIndex], flexa.default)
+        setFlex(flx)
+
+        let oc = hotData[mayorTIVIndex] ? hotData[mayorTIVIndex][6] : ""
+        setFs(cpa(flx?.color, oc, tlcd.default, totalTIVUSDval))
+        setFl(cpa(flx?.color, oc, tscd.default, totalTIVUSDval))
+        setGs(cpa(flx?.color, oc, tscf.default, totalTIVUSDval))
+        setGl(cpa(flx?.color, oc, tlcf.default, totalTIVUSDval))
         homo = []
         hotTableComponent.current.hotInstance.loadData(hotData);
         hotTableComponent2.current.hotInstance.loadData(hotData2);
@@ -336,43 +350,43 @@ const Tabla = (props) => {
                 }} size="small" aria-label="a dense table">
                     <TableHead>
                         <TableRow>
-                            <TableCell>Nombre cliente : {props.cinf.nombreCliente}</TableCell>
+                            <TableCell><strong>Nombre cliente : </strong>{props.cinf.nombreCliente}</TableCell>
                         </TableRow>
                         <TableRow>
-                            <TableCell>NIT/CC: {props.cinf.nit}</TableCell>
+                            <TableCell><strong>NIT/CC:</strong> {props.cinf.nit}</TableCell>
                         </TableRow>
                         <TableRow>
-                            <TableCell>Actividad: {props.cinf.actividad}</TableCell>
+                            <TableCell><strong>Actividad:</strong>{props.cinf.actividad}</TableCell>
                         </TableRow>
                         <TableRow>
-                            <TableCell>Broker: {document.getElementsByClassName("MuiInputBase-inputAdornedEnd")[0]?.value}</TableCell>
+                            <TableCell><strong>Broker:</strong> {broker}</TableCell>
                         </TableRow>
                         <TableRow>
-                            <TableCell>Total TIV (COP) : {totalTIV}</TableCell>
+                            <TableCell><strong>Total TIV (COP) :</strong> {totalTIV}</TableCell>
                         </TableRow>
                         <TableRow>
-                            <TableCell>Total TIV (USD) : {totalTIVUSD}</TableCell>
+                            <TableCell><strong>Total TIV (USD) : </strong>{totalTIVUSD}</TableCell>
                         </TableRow>
                         <TableRow>
-                            <TableCell>Total PD (COP) : {totalPD}</TableCell>
+                            <TableCell><strong>Total PD (COP) :</strong> {totalPD}</TableCell>
                         </TableRow>
                         <TableRow>
-                            <TableCell>Total BI (COP) : {totalBI}</TableCell>
+                            <TableCell><strong>Total BI (COP) :</strong> {totalBI}</TableCell>
                         </TableRow>
                         <TableRow>
-                            <TableCell>Dirección con mayor peso : {hotData[mayorP] ? hotData[mayorP][0] : ""}</TableCell>
+                            <TableCell><strong>Dirección con mayor peso :</strong> {hotData[mayorP] ? hotData[mayorP][0] : ""}</TableCell>
                         </TableRow>
                         <TableRow>
-                            <TableCell>HG predominante : {HGP} </TableCell>
+                            <TableCell><strong>HG predominante : </strong>{HGP} </TableCell>
                         </TableRow>
                         <TableRow>
-                            <TableCell>Capacity Deployment: {hotData[mayorP] ? hotData[mayorP][6] : ""} </TableCell>
+                            <TableCell><strong>Capacity Deployment:</strong> {hotData[mayorP] ? hotData[mayorP][6] : ""} </TableCell>
                         </TableRow>
                         <TableRow>
-                            <TableCell>¿Homogénea? : {homogenea ? "Si" : "No"} </TableCell>
+                            <TableCell><strong>¿Homogénea? :</strong> {homogenea ? "Si" : "No"} </TableCell>
                         </TableRow>
                         <TableRow>
-                            <TableCell>Flexa : {hotData[mayorP] ? <a href={flex?.form == "COPE" ? COPE : (flex?.form == "UW" ? UW : "#")} download style={
+                            <TableCell><strong>Flexa : </strong>{hotData[mayorP] ? <a href={flex?.form == "COPE" ? COPE : (flex?.form == "UW" ? UW : "#")} download style={
                                 {
                                     color: flex?.color === "yellow" ? "#F4D03F" : flex.color
                                 }
@@ -381,7 +395,7 @@ const Tabla = (props) => {
 
                         <TableRow>
 
-                            <TableCell>Capacidad de cobertura : </TableCell>
+                            <TableCell><strong> Capacidad de cobertura : </strong></TableCell>
                             <TableCell> <ul>
                                 <strong>FLOOD: {FLOOD["capacity"]} %</strong> <br />
                                 <strong>ZONA FLOOD (USD)</strong>
@@ -405,20 +419,32 @@ const Tabla = (props) => {
                         </TableRow>
 
                         <TableRow>
-                            <TableCell>Escenarios : </TableCell>
+                            <TableCell><strong>Escenarios : </strong></TableCell>
                             <TableCell>
                                 <ul>
                                     <strong style={{ color: "red" }}>FAIR :</strong>
                                     <li>
-                                        SOLID:
+                                        <strong>SOLID : </strong>{fs} %
                                     </li>
                                     <li>
-                                        LIGHT
+                                        <strong>LIGHT : </strong>{fl} % 
                                     </li>
                                 </ul>
 
                             </TableCell>
-                            <TableCell><strong style={{ color: "green" }}>GOOD :</strong> </TableCell>
+                            <TableCell>
+                                <ul>
+                                    <strong style={{ color: "green" }}>GOOD :</strong>
+                                    <li>
+                                        <strong>SOLID :</strong> {gs} %
+                                    </li>
+                                    <li>
+                                        <strong>LIGHT :</strong> {gl} %
+                                    </li>
+                                </ul>
+
+
+                            </TableCell>
                         </TableRow>
                     </TableHead>
                 </Table>

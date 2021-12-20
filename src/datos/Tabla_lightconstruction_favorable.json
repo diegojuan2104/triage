@@ -1,16 +1,16 @@
 [
     {
-        "Occupancy": "Light hazard",
-        "Red": "20000000",
-        "Orange": "20000000",
-        "Yellow": "20000000",
-        "Green": "20000000"
+        "occupancy": "Light hazard",
+        "red": "20000000",
+        "orange": "20000000",
+        "yellow": "20000000",
+        "green": "20000000"
     },
     {
-        "Occupancy": "Moderate hazard",
-        "Red": "20000000",
-        "Orange": "20000000",
-        "Yellow": "7000000",
-        "Green": "7000000"
+        "occupancy": "Moderate hazard",
+        "red": "20000000",
+        "orange": "20000000",
+        "yellow": "7000000",
+        "green": "7000000"
     }
 ]
