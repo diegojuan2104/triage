@@ -15,16 +15,19 @@ import Autocomplete from '@mui/material/Autocomplete';
 import Grid from '@mui/material/Grid';
 import { AppBar, Container, CssBaseline, Input, InputAdornment, InputLabel, Toolbar, Typography } from '@mui/material';
 
-import TablaExcel from './components/TablaExcel';
+import TablaExcel from './components/Cuerpo';
 
 const App = () => {
   const [nombreCliente, setNombreCliente] = React.useState('');
   const [actividad, setNombreActividad] = React.useState('');
   const [nit, setNIT] = React.useState('');
-  const [TRM, setTRM] = React.useState(3756.2);
+  const [TRM, setTRM] = React.useState(3800);
   const [broker, setBroker] = React.useState('');
 
+  let broker_value = ""
   const theme = createTheme();
+
+  console.log(broker)
 
   return (
     <div>
@@ -112,17 +115,26 @@ const App = () => {
                         fullWidth
                         options={brokers.default}
                         autoHighlight
+                        onChange={(e) => {
+                          setBroker(document.getElementsByClassName("MuiInputBase-inputAdornedEnd")[0].value)
+                        }}
                         getOptionLabel={(option) => option.intermediarios}
                         renderOption={(props, option) => (
                           <Box component="li" sx={{ '& > img': { mr: 2, flexShrink: 0 } }} {...props}>
                             {option.intermediarios}
                           </Box>
                         )}
-                        renderInput={(params) => (
+                        renderInput={
+                          (params)=>(
+                            setBroker(...params.inputProps.value)
+                          ),
+                          (params) => (
+                            
                           <TextField
                             variant="standard"
                             fullWidth
-                            value={broker}
+                            className="broker"
+                            id="broker"
                             {...params}
                             label="Broker"
                             inputProps={{
@@ -135,7 +147,7 @@ const App = () => {
                   </Grid>
                 </React.Fragment>
               </React.Fragment>
-              <TablaExcel trm={TRM} />
+              <TablaExcel trm={TRM} cinf={{nombreCliente, nit, actividad, broker}} />
             </Paper>
           </Container>
         </ThemeProvider>

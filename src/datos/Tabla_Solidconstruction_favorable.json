@@ -1,0 +1,16 @@
+[
+    {
+        "Occupancy": "Light hazard",
+        "Red": "30000000",
+        "Orange": "30000000",
+        "Yellow": "30000000",
+        "Green": "30000000"
+    },
+    {
+        "Occupancy": "Moderate hazard",
+        "Red": "30000000",
+        "Orange": "30000000",
+        "Yellow": "10000000",
+        "Green": "10000000"
+    }
+]
